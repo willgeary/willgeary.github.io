@@ -20,6 +20,15 @@ I love anything outdoors, and I'm crazy about the bicycle. I ride to work every 
 
 ![Me and my baby]({{ site.url }}/assets/bike_will.jpg)
 
+I love using Python and R to greal insites from data and will blog about some of projects here.
+
+{% highlight python %}
+def show()
+  x = 1
+  return "show", x
+{% endhighlight %}
+
+
 
 # About this site
 This site was made using Jekyll and Github Pages  . You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
