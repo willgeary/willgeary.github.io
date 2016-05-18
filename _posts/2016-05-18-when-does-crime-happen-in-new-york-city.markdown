@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What crimes happen when in NYC?"
+title:  "When does crime happen in New York City?"
 date:   2016-05-18 17:15:14 -0400
 categories: data science
 ---
