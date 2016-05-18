@@ -2,23 +2,39 @@
 layout: post
 title:  "When does crime happen in New York City?"
 date:   2016-05-18 17:15:14 -0400
-categories: data science
+categories: data science, recreate
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+I was inspired by [this post][iquantny-post] on the fantastic blog I Quant NY. Author Ben Wellington analyzes the NYPD Major Felony Incidents [data set][nypd-felony-data] provided by NYC Open Data. The below analysis will recreate Ben's work using the Python programming language and even take it a bit further. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+You may view my complete notebook [here][jupyter-notebook].
 
-Jekyll also offers powerful support for code snippets:
+
+### Set up the environment
+Import the necessary libraries.
 
 {% highlight python %}
-def print_hi(name)
-  return "Hi, #{name}"
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+from datetime import datetime
+import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import numpy as np
+import os
+import pandas as pd
+import seaborn as sns
+import time
+%matplotlib inline
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+### Load the raw data
+Download the csv directly from the NYC Open Data site and load it into a dataframe.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+{% highlight python %}
+url = 'https://data.cityofnewyork.us/api/views/hyij-8hr7/rows.csv?accessType=DOWNLOAD'
+raw_data = pd.read_csv(url)
+{% endhighlight %}
+
+
+[iquantny-post]: http://iquantny.tumblr.com/post/142278062424/in-nyc-more-robberies-happen-right-when-school
+[nypd-felony-data]: https://data.cityofnewyork.us/Public-Safety/NYPD-7-Major-Felony-Incidents/hyij-8hr7
+[jupyter-notebook]: https://nbviewer.jupyter.org/github/willgeary/personalblog/blob/master/NYC%20Crime%20Rates.ipynb
+
+
