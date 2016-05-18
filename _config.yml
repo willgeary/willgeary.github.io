@@ -9,7 +9,7 @@
 title: Will Geary
 email: willgeary@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-  Personal blog about a few of the things I enjoy: data science, cities, bikes
+  Personal blog about a few of the things I enjoy: data science, cities and bikes
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: wgeary
