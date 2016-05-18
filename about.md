@@ -18,9 +18,11 @@ Previously...
 
 I love anything outdoors, and I'm crazy about the bicycle. I ride to work every day and dream about biking, hiking and camping my way around the world. I love cities and have a street photography habit.
 
+![Me and my baby]({{ site.url }}/assets/bike_will.jpg)
+
 
 # About this site
-This site was made using Jekyll and Github Pages. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This site was made using Jekyll and Github Pages  . You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
