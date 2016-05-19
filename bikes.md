@@ -14,9 +14,9 @@ permalink: /bikes/
 
         <li>  
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
           <h2>
             <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+            <p>{{ post.excerpt }}</p>
           </h2>
         </li>
       {% endif %}      

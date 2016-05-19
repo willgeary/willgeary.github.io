@@ -5,12 +5,13 @@ date:   2016-03-05 17:15:14 -0400
 categories: biking
 ---
 
+![fig]({{ site.url }}/assets/philly0.jpg)
+
+<sub>*On the Manhattan Bridge, crossing from Brooklyn into Manhattan en route to Philadelphia.*</sub>
+
 I love Philly. I was happy to be assigned to spend a week there for work. Philly is a great city to bike around, and I was intent on bringing my bicycle with me for transportation and pleasure. Unfortunately, the Amtrak train to Philly prohibits bringing bikes on board. I made a petition to convince them otherwise, but alas, to no avail. 
 
 So, I decided to bike to Philadelphia. 
-
-![fig]({{ site.url }}/assets/philly0.jpg)
-<sub>*On the Manhattan Bridge, crossing from Brooklyn into Manhattan en route to Philadelphia.*</sub>
 
 ### Day 1: Brooklyn to Princeton, NJ (58 miles)
 
