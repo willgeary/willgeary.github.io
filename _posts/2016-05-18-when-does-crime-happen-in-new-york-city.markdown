@@ -79,15 +79,38 @@ df.reset_index(drop=True, inplace=True)
 
 
 ### What times of day do major felonies happen?
-`groupby` Occurrence Hour and Offense. `count()` the number of rows 
+`groupby` Occurrence Hour and Offense. `count()` the number of rows.  
 {% highlight python %}
 offense_by_hour = df['Occurrence Date'].groupby([df['Occurrence Hour'], df['Offense']]).count().unstack()
 offense_by_hour.head()
 {% endhighlight %}
 
 `plot` number of crimes grouped by Occurrence Hour and Offense type.
+{% highlight python %}
+offense_by_hour.plot(figsize=(10,8), title='Absolute Number of Crimes per Hour by Offense')
+{% endhighlight %}
 ![fig1]({{ site.url }}/assets/2016-05-18-fig1.png)
 
+Nice! We're starting to get somewhere. The chart above shows the absolute number of Crimes by hour over the 2006-2015 period. However, we want to see the *hourly crime rate* rather than the absolute number of crimes. So, we need to divide this the grouped data fram by the number of days in the time period to get the hourly crime rates that we want.
+
+{% highlight python %}
+# Calculate number days in 2006-2015
+first_day = df['Occurrence Date'][2]
+last_day = df['Occurrence Date'].max()
+delta = last_day - first_day
+days = delta.days-1
+print "# of days in time period:", days
+{% endhighlight %}
+
+Convert the absolute number of crimes to hourly rates by dividing by the number of days in the period.
+
+{% highlight python %}
+crime_rate_hourly_by_offense = offense_by_hour.div(days)
+crime_rate_hourly_by_offense.plot(figsize=(10,8), title='Hourly Felony Rate in NYC, 2006-2015');
+{% endhighlight %}
+
+This matches up nicely with Ben's chart:
+![fig1]({{ site.url }}/assets/2016-05-18-fig2.png)
 
 
 [iquantny-post]: http://iquantny.tumblr.com/post/142278062424/in-nyc-more-robberies-happen-right-when-school
