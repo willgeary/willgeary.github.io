@@ -2,11 +2,6 @@
 layout: page
 ---
 
-<img style="height: 260px; float: right; padding: 0px; background: #aaa; margin-left: 20px;"
-    src="/assets/headshot.jpg"
-    title="Will Geary"
-    alt="Will Geary"/>
-
 I'm **Will Geary**, an aspiring data scientist living in Brooklyn, New York.
 
 Currently, I'm a full-time graduate student at Columbia University pursuing a [master's degree in data science](http://datascience.columbia.edu/master-of-science-in-data-science). 
