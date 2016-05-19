@@ -115,8 +115,13 @@ This matches up nicely with Ben's chart:
 
 ![fig1]({{ site.url }}/assets/2016-05-18-fig2.png)
 
-It appears that burgarly and grand larceny tick upwards at 3pm, right when New York City schools are getting out. Is it possible that school getting out is responsible for higher crime rates? Let's dig deeper to find out.
+It appears that there are peaks around midnight and noon. There are also peaks around 8am and 3pm. This happens to be approximately when school starts and gets out in New York.
 
+Is it possible that school getting out is responsible for higher crime rates? Let's dig deeper to find out.
+
+Let's segment school days from non-school days to tease out the effect of school hours on crime rates. Specifically, categorize each day as a school day, summer vacation, weekday holiday or weekend day. To pinpoint the weekday holidays I referred to this NYC school calendar. 
+
+PROBLEM: Only the 2015-2016 academic calendar is available here. So, I make the obviously flawed assumption that the academic recesses and holidays occurred on the same dates in 2006 through 2014 as they did in 2015. Ben also created his school 'vacation weekday' sub- data set. It's unclear exactly how he made it, so I'll make this assumption for now and move forward with the analysis and ask him :) .
 
 ## Do crime rates increase when school gets out?
 In order to tease out crime trends on school days, I want to categorize each day from 2006 to 2015 as either a 1) School Day, 2) Weekday Holiday, 3) Weekend or 4) Summer Vacation.
@@ -197,6 +202,61 @@ crime_rate_hourly_by_day_type.plot(figsize=(10,8), title='Hourly Felony Rate in 
 {% endhighlight %}
 
 ![fig]({{ site.url }}/assets/2016-05-18-fig3.png)
+
+You can see that the overall level of felonies is much higher on school days than holiday or weekend days. Let's dive deeper and segment this analysis across the various types of offenses. We'll want to calculate two things:
+
+1. Number of crimes
+2. Rate of crimes
+
+And segment them across three attributes:
+
+1. Day Type: school day, summer vacation, weekday holiday, weekend day
+2. Offense Type: burglary, felony assault, grand larceny, grand larceny of motor vehicle, murder, rape and robbery
+3. Occurrence Hour: hourly from 12am through 11pm
+
+If we were working in Excel, this would be pretty time intensive. Thankfully Python's groupby and aggregate functions can take care of this pretty easily. Below we define an aggregation to count the number of occurrences. Then, we group the data frame by Offense, Occurrence Hour and Day Type and apply the aggregation. Finally, we divide the 'hourly_rate' aggregation by the appropriate number of  days for each day type to convert crime counts into crime rates.
+
+{% highlight python %}
+# Define the aggregation calculations
+aggregations = {
+    'OBJECTID': { # work on the "OBJECT ID" column
+        'num_occurrences': 'count',  # get the count, and call this result 'num_occurences'
+        'hourly_rate': 'count'} # placeholder for now - we will divide this by number of days next
+    }
+ 
+# Perform groupby aggregation by occurrence hour and day type
+g = df.groupby([df['Offense'].astype('str'), df['Occurrence Hour'], df['Day Type']]).agg(aggregations).unstack()
+
+# Divide the hourly_rate columns by the appropriate number of days to convert them into hourly rates
+g[('OBJECTID', 'hourly_rate', 'School Day')] = g[('OBJECTID', 'hourly_rate', 'School Day')] / school_days
+g[('OBJECTID', 'hourly_rate', 'Summer Vacation')] = g[('OBJECTID', 'hourly_rate', 'Summer Vacation')] / summer_days
+g[('OBJECTID', 'hourly_rate', 'Weekday Holiday')] = g[('OBJECTID', 'hourly_rate', 'Weekday Holiday')] / weekday_holidays
+g[('OBJECTID', 'hourly_rate', 'Weekend Day')] = g[('OBJECTID', 'hourly_rate', 'Weekend Day')] / weekend_days
+g.head()
+{% endhighlight %}
+
+![fig]({{ site.url }}/assets/2016-05-18-fig4.png)
+
+{% highlight python %}
+for x in np.unique(g.index.get_level_values(0)):
+    print x
+{% endhighlight %}
+
+![fig]({{ site.url }}/assets/2016-05-18-fig5.png)
+
+Make a plot for each type of offense.
+
+{% highlight python %}
+for x in np.unique(g.index.get_level_values(0)):
+    ax = plt.figure()
+    g.loc[x,('OBJECTID', 'hourly_rate')].plot(figsize=(16,8), title=x.lower() + ' Hourly Rates in NY, 2006-2015')
+    hours = ['12AM', 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, '12PM', 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11]
+    plt.xticks(range(len(hours)), hours)
+    plt.ylabel('Number of Occurrences')
+    plt.xlabel('Time of Day')
+{% endhighlight %}
+
+![fig]({{ site.url }}/assets/2016-05-18-fig5.png)
 
 
 
