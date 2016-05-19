@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm **Will Geary**, an aspiring data scientist living in Brooklyn, New York.
+I'm Will Geary, an aspiring data scientist living in Brooklyn, New York.
 
 I've worked as an analyst at established companies and early-stage startups. Currently, I'm a full-time graduate student at Columbia University pursuing a [master's degree in data science](http://datascience.columbia.edu/master-of-science-in-data-science). I’m excited about the implications of data science on sustainability and mobility in cities of the future. 
 
