@@ -301,6 +301,39 @@ c
 {% endhighlight %}
 ![fig]({{ site.url }}/assets/2016-05-18-fig13.png)
 
+{% highlight python %}
+c.plot(kind='bar', figsize=(12,6), title='Daily Number of Felonies in NYC, 2006-2015');
+{% endhighlight %}
+![fig]({{ site.url }}/assets/2016-05-18-fig14.png)
+
+
+## How have crime rates changed over time?
+
+{% highlight python %}
+# Define the aggregation calculations
+aggregations = {
+    'OBJECTID': { # work on the "OBJECT ID" column
+        'num_occurrences': 'count',  # get the count, and call this result 'num_occurences'
+        'hourly_rate': 'count'} # placeholder for now - we will divide this by number of days next
+    }
+ 
+# Perform groupby aggregation by occurrence hour and day type
+g = df.groupby([df['Offense'], df['Occurrence Hour'], df['Occurrence Year'].astype('str')]).agg(aggregations).unstack()
+
+# Divide houry_rate columns by days
+g[('OBJECTID', 'hourly_rate')] = g[('OBJECTID', 'hourly_rate')] / (days/10)
+g.head()
+{% endhighlight %}
+![fig]({{ site.url }}/assets/2016-05-18-fig15.png)
+
+{% highlight python %}
+g.loc['ROBBERY',('OBJECTID', 'hourly_rate')].plot(figsize=(15,10), title='');
+{% endhighlight %}
+![fig]({{ site.url }}/assets/2016-05-18-fig16.png)
+
+
+
+
 
 
 
