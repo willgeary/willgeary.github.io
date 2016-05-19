@@ -15,16 +15,37 @@
       <div class="footer-col footer-col-2">
         <ul class="social-media-list">
           {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
+            <li>
+              <a href="https://github.com/{{ site.github_username }}">
+                <i class="fa fa-github"></i> GitHub
+              </a>
+            </li>
           {% endif %}
 
           {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
+            <li>
+              <a href="https://twitter.com/{{ site.twitter_username }}">
+                <i class="fa fa-twitter"></i> Twitter
+              </a>
+            </li>
           {% endif %}
+
+          {% if site.linkedin_username %}
+            <li>
+              <a href="https://linkedin.com/in/{{ site.linkedin_username }}">
+                <i class="fa fa-linkedin"></i> LinkedIn
+              </a>
+            </li>
+          {% endif %}
+
+          {% if site.facebook_username %}
+            <li>
+              <a href="https://www.facebook.com/{{ site.facebook_username }}">
+                <i class="fa fa-facebook"></i> Facebook
+              </a>
+            </li>
+          {% endif %}
+
         </ul>
       </div>
 
@@ -36,3 +57,6 @@
   </div>
 
 </footer>
+
+
+#
