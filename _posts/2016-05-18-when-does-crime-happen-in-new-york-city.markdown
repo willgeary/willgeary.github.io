@@ -9,7 +9,7 @@ I was inspired by [this post][iquantny-post] on the fantastic blog I Quant NY. A
 You may view my complete notebook [here][jupyter-notebook].
 
 
-### Set up the environment
+## Set up the environment
 Import the necessary libraries.
 
 {% highlight python %}
@@ -24,7 +24,7 @@ import time
 %matplotlib inline
 {% endhighlight %}
 
-### Load the raw data
+## Load the raw data
 Download the csv directly from the NYC Open Data site and load it into a data frame.
 
 {% highlight python %}
@@ -39,7 +39,7 @@ raw_data.head()
 raw_data.dtypes
 {% endhighlight %}
 
-### Clean the data
+## Clean the data
 Select years 2006 through 2015 into new data frame.
 
 {% highlight python %}
@@ -78,7 +78,7 @@ df.reset_index(drop=True, inplace=True)
 {% endhighlight %}
 
 
-### What times of day do major felonies happen?
+## What times of day do major felonies happen?
 `groupby` Occurrence Hour and Offense. `count()` the number of rows.  
 {% highlight python %}
 offense_by_hour = df['Occurrence Date'].groupby([df['Occurrence Hour'], df['Offense']]).count().unstack()
@@ -112,7 +112,98 @@ crime_rate_hourly_by_offense.plot(figsize=(10,8), title='Hourly Felony Rate in N
 
 
 This matches up nicely with Ben's chart:
+
 ![fig1]({{ site.url }}/assets/2016-05-18-fig2.png)
+
+It appears that burgarly and grand larceny tick upwards at 3pm, right when New York City schools are getting out. Is it possible that school getting out is responsible for higher crime rates? Let's dig deeper to find out.
+
+
+## Do crime rates increase when school gets out?
+In order to tease out crime trends on school days, I want to categorize each day from 2006 to 2015 as either a 1) School Day, 2) Weekday Holiday, 3) Weekend or 4) Summer Vacation.
+
+In order to do so I'll need to insert a Date column into the dataframe that is simply a date (rather than a datetime stamp).
+
+{% highlight python %}
+# Calculate number days in 2006-2015
+# Set datetime to simply date value (we may need this later)
+df['Date'] = df['Occurrence Date'].dt.date
+{% endhighlight %}
+
+{% highlight python %}
+# Create Month-Day column to store a (Month, Day) tuple in order to compare month-days
+df['Month-Day'] = zip([date.date().month for date in df['Occurrence Date']],df['Occurrence Day'])
+{% endhighlight %}
+
+{% highlight python %}
+# I made a CSV of school year holidays in 2015-2016 per http://schools.nyc.gov/Calendar/default.htm
+holidays = pd.read_csv('C:/Users/Will/Desktop/2015_holidays.csv')
+holidays['Date'] = pd.to_datetime(holidays['Date'])
+holidays['Month'] = [date.date().month for date in holidays['Date']]
+holidays['Day'] = [date.date().day for date in holidays['Date']]
+holidays['Month-Day'] = zip(holidays.Month, holidays.Day)
+holidays.head()
+{% endhighlight %}
+
+I created a csv of school year holidays in 2015-2016 per http://schools.nyc.gov/Calendar/default.htm
+{% highlight python %}
+holidays = pd.read_csv('C:/Users/Will/Desktop/2015_holidays.csv')
+holidays['Date'] = pd.to_datetime(holidays['Date'])
+holidays['Month'] = [date.date().month for date in holidays['Date']]
+holidays['Day'] = [date.date().day for date in holidays['Date']]
+holidays['Month-Day'] = zip(holidays.Month, holidays.Day)
+holidays.head()
+{% endhighlight %}
+
+Indicate whether days are Summer, Weekend, Weekday Holiday or School Days using 1's and 0's.
+{% highlight python %}
+# Set summer vacation = 1 where month is July, August or September (and before Sept 9)
+df['Summer Vacation'] = np.where((df['Occurrence Month'] == 'Jul') | (df['Occurrence Month'] =='Aug')
+                                 | ((df['Occurrence Month'] == 'Sep') & (df['Occurrence Day'] < 9)),1,0)
+
+# Set weekend day = 1 where day is Saturday or Sunday
+df['Weekend Day'] = np.where(((df['Day of Week'] == 'Saturday') | (df['Day of Week'] == 'Sunday')),1,0)
+
+# Set weekday holiday = 1 if the month-day was a holiday in 2015. This assumes month-day holidays will be same in other years
+df['Weekday Holiday'] = [1 if monthday in list(holidays['Month-Day']) else 0 for monthday in df['Month-Day']]
+
+# Set school day = 1 if none of the previous three new columns are = 1
+df['School Day'] = np.where((df['Summer Vacation'] != 1) & (df['Weekend Day'] != 1) & (df['Weekday Holiday'] !=1),1,0)
+{% endhighlight %}
+
+Set Day Type equal to the correct type of day.
+{% highlight python %}
+def day_type(row):
+    if row['Summer Vacation'] == 1:
+        return 'Summer Vacation'
+    if row['Weekend Day'] == 1:
+        return 'Weekend Day'
+    if row['Weekday Holiday'] == 1:
+        return 'Weekday Holiday'
+    if row['School Day'] == 1:
+        return 'School Day'
+
+df['Day Type'] = df.apply(lambda row: day_type(row), axis=1)
+
+# Convert Day Type column to categorical
+df['Day Type'] = df['Day Type'].astype('category')
+{% endhighlight %}
+
+Plot Hourly Felony Rate in NYC by day type.
+
+{% highlight python %}
+crimes_by_day_type = df['Occurrence Date'].groupby([df['Occurrence Hour'], df['Day Type']]).count().unstack()
+crime_rate_hourly_by_day_type = crimes_by_day_type.div(days)
+crime_rate_hourly_by_day_type.plot(figsize=(10,8), title='Hourly Felony Rate in NYC is Higher on School Days');
+{% endhighlight %}
+
+![fig]({{ site.url }}/assets/2016-05-18-fig3.png)
+
+
+
+
+
+
+
 
 
 [iquantny-post]: http://iquantny.tumblr.com/post/142278062424/in-nyc-more-robberies-happen-right-when-school
