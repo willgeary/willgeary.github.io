@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Biking from New York to Philadelphia"
+title:  "New York to Philadelphia"
 date:   2016-03-05 17:15:14 -0400
 categories: biking
 ---
