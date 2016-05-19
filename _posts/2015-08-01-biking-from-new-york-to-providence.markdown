@@ -9,7 +9,7 @@ categories: biking
 Starting from Brooklyn, I rode through sprawling Long Island all the way to Orient Point, the very tip of the north fork of long island, which is quiet and beautiful. Stealth camped on the beach in Orient Beach State Park. Fell asleep to a violently purple sky and the sounds of waves gently lapping at the shore.
 
 ![fig]({{ site.url }}/assets/orient_point.jpg)
-*Camping in Orient Beach State Park on the very tip of Long Island's North Fork.*
+<sub>*Camping in Orient Beach State Park on the very tip of Long Island's North Fork.*</sub>
 
 ### Day 2: Orient Point to Providence, RI (76 miles)
 
