@@ -277,6 +277,30 @@ for x in np.unique(g.index.get_level_values(0)):
 ### Rape peaks at midnight.
 ![fig]({{ site.url }}/assets/2016-05-18-fig12.png)
 
+Some fascinating, albeit morbid, takeaways.
+
+## Which crimes happen most frequently?
+So far we've looked at the varies types of crimes individually, but how to they compare to one another? To answer this question, we will perform another **aggregate** / **groupby** function to count the number of occurrences by Day Type and Offense Type.
+
+{% highlight python %}
+# Define the aggregation calculations
+aggregations = {
+    'OBJECTID': { # work on the "OBJECT ID" column
+        'num_occurrences': 'count'}  # get the count, and call this result 'num_occurences'
+    }
+ 
+# Perform groupby aggregation by occurrence hour and day type
+c = df.groupby([df['Offense'].astype('str'), df['Day Type']]).agg(aggregations).unstack()
+
+# Divide the num_occurrences columns by the appropriate number of days to convert them into daily rates
+c[('OBJECTID', 'num_occurrences', 'School Day')] = c[('OBJECTID', 'num_occurrences', 'School Day')] / school_days
+c[('OBJECTID', 'num_occurrences', 'Summer Vacation')] = c[('OBJECTID', 'num_occurrences', 'Summer Vacation')] / summer_days
+c[('OBJECTID', 'num_occurrences', 'Weekday Holiday')] = c[('OBJECTID', 'num_occurrences', 'Weekday Holiday')] / weekday_holidays
+c[('OBJECTID', 'num_occurrences', 'Weekend Day')] = c[('OBJECTID', 'num_occurrences', 'Weekend Day')] / weekend_days
+c
+{% endhighlight %}
+![fig]({{ site.url }}/assets/2016-05-18-fig13.png)
+
 
 
 
