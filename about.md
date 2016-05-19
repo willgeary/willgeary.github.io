@@ -24,4 +24,3 @@ I ride my bicycle every day and dream about biking, hiking and camping my way ar
 * M.S. in Data Science, Columbia University, 2018 (expected)
 * B.S. in Economics & B.A. in Philosophy, Duke University, 2012
 * Coursework in Econometrics, London School of Economics, 2011
-

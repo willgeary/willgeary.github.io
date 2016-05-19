@@ -91,7 +91,7 @@ offense_by_hour.plot(figsize=(10,8), title='Absolute Number of Crimes per Hour b
 {% endhighlight %}
 ![fig1]({{ site.url }}/assets/2016-05-18-fig1.png)
 
-Nice! We're starting to get somewhere. The chart above shows the absolute number of Crimes by hour over the 2006-2015 period. However, we want to see the *hourly crime rate* rather than the absolute number of crimes. So, we need to divide this the grouped data fram by the number of days in the time period to get the hourly crime rates that we want.
+Nice! We're starting to get somewhere. The chart above shows the absolute number of Crimes by hour over the 2006-2015 period. However, we want to see the *hourly crime rate* rather than the absolute number of crimes. So, we need to divide this the grouped data frame by the number of days in the time period to get the hourly crime rates that we want.
 
 {% highlight python %}
 # Calculate number days in 2006-2015
