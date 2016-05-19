@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello"
+title:  "Creating this blog using Jekyll and Github Pages"
 date:   2016-05-16 17:15:14 -0400
 categories: datascience
 ---
