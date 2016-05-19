@@ -108,6 +108,8 @@ Convert the absolute number of crimes to hourly rates by dividing by the number 
 crime_rate_hourly_by_offense = offense_by_hour.div(days)
 crime_rate_hourly_by_offense.plot(figsize=(10,8), title='Hourly Felony Rate in NYC, 2006-2015');
 {% endhighlight %}
+![fig1]({{ site.url }}/assets/2016-05-18-fig1a.png)
+
 
 This matches up nicely with Ben's chart:
 ![fig1]({{ site.url }}/assets/2016-05-18-fig2.png)
