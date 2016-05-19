@@ -331,6 +331,8 @@ g.loc['ROBBERY',('OBJECTID', 'hourly_rate')].plot(figsize=(15,10), title='');
 {% endhighlight %}
 ![fig]({{ site.url }}/assets/2016-05-18-fig16.png)
 
+The good news: robbery is significantly lower in 2015 than 2006.
+
 
 
 
