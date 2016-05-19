@@ -2,7 +2,7 @@
 layout: page
 ---
 
-I'm **Will Geary**, an aspiring data scientist living in Brooklyn, New York.
+I'm Will Geary, an aspiring data scientist living in Brooklyn, New York.
 
 Currently, I'm a graduate student at Columbia University pursuing a [master's degree in data science](http://datascience.columbia.edu/master-of-science-in-data-science). 
 
