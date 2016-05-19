@@ -256,7 +256,28 @@ for x in np.unique(g.index.get_level_values(0)):
     plt.xlabel('Time of Day')
 {% endhighlight %}
 
-![fig]({{ site.url }}/assets/2016-05-18-fig5.png)
+### Robbery peaks on school days at 3pm, right when school gets out.
+![fig]({{ site.url }}/assets/2016-05-18-fig6.png)
+
+### Burglary peaks on school days at 8am, before school starts.
+![fig]({{ site.url }}/assets/2016-05-18-fig7.png)
+
+### Felony assault peaks on weekend days at 3am.
+![fig]({{ site.url }}/assets/2016-05-18-fig8.png)
+
+### Grand larceny tends to be higher on school days, with peaks at 8am, 12pm and 3pm.
+![fig]({{ site.url }}/assets/2016-05-18-fig9.png)
+
+### Motor vehicle theft peaks at 10pm on summer nights.
+![fig]({{ site.url }}/assets/2016-05-18-fig10.png)
+
+### Murder peaks at 4am on weekends.
+![fig]({{ site.url }}/assets/2016-05-18-fig11.png)
+
+### Rape peaks at midnight.
+![fig]({{ site.url }}/assets/2016-05-18-fig12.png)
+
+
 
 
 
