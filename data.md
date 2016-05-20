@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  Data Science
+title:  Open Data
 permalink: /data/
 ---
 
@@ -10,7 +10,7 @@ permalink: /data/
 
   <ul class="post-list">
     {% for post in site.posts %}
-      {% if post.categories contains 'datascience' %}
+      {% if post.categories contains 'data' %}
 
         <li>  
           <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>

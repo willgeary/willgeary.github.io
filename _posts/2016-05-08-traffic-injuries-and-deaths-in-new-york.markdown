@@ -2,7 +2,7 @@
 layout: post
 title:  "What months are most dangerous for pedestrians and cyclists?"
 date:   2016-05-08 17:15:14 -0400
-categories: datascience
+categories: data
 ---
 
 Python has become a popular programming language for data analysis. It is free, flexible, easy to learn and has a robust ecosystem of useful tools. The following tutorial will run some basic wrangling and analysis tasks using Python and a few of it's data-oriented tools. We will look at NYC Motor Vehicle Collision [data set](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95) provided by the New York Police Department via NYC Open Data.

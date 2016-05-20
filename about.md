@@ -23,6 +23,6 @@ I ride my bicycle every day and dream about biking, hiking and camping my way ar
 * **Investment Banking Analyst** at *Bank of America Merrill Lynch*. Advised and executed on M&A, debt and equity transactions. Learned a lot about financial modeling, spreadsheets, powerpoints, sleeping under my desk...
 
 #### Education
-* M.S. in Data Science, Columbia University, 2018 (expected)
+* M.S. in Data Science, Columbia University, 2017 (expected)
 * B.S. in Economics & B.A. in Philosophy, Duke University, 2012
 * Coursework in Econometrics, London School of Economics, 2011
