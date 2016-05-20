@@ -6,6 +6,9 @@ permalink: /bikes/
 
 <div class="home">
 
+  <h1> <sub> "The journey of a thousand miles begins with a single step" </sub></h1>
+
+
   <ul class="post-list">
     {% for post in site.posts %}
       {% if post.categories contains 'biking' %}

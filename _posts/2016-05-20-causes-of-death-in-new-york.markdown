@@ -98,4 +98,3 @@ df.reset_index(drop=True, inplace=True)
 
 
 Why do did fewer people die in 2011 than 2007?
-
