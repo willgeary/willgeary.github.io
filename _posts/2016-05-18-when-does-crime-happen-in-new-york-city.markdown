@@ -4,6 +4,8 @@ title:  "When does crime happen in New York City?"
 date:   2016-05-18 17:15:14 -0400
 categories: data
 ---
+![fig]({{ site.url }}/assets/2016-05-08-fig7.jpg)
+
 I was inspired by [this post][iquantny-post] on the fantastic blog I Quant NY. Author Ben Wellington analyzes the NYPD Major Felony Incidents [data set][nypd-felony-data] provided by NYC Open Data. The below analysis will recreate Ben's work using the Python programming language and even take it a bit further. 
 
 You may view my complete notebook [here][jupyter-notebook].
