@@ -11,11 +11,11 @@ I've worked as an analyst at established companies and early-stage startups. Cur
 I ride my bicycle every day and dream about biking, hiking and camping my way around the world. I love cities and have a [street photography habit](https://www.instagram.com/willcgeary/).
 
 ![Me and my baby]({{ site.url }}/assets/bike_will.jpg)
+<sub>*A nerd and his bike.*</sub>
 
 
-*Previously*...
 
-#### Professional
+#### Professional Experience
 * **Company Partnerships** at [*Venture for America*](http://ventureforamerica.org/), a national economic development organization revitalizing American cities through entrepreneurship. My job is to identify and build partnerships with early-stage startups and key stakeholders in cities across the U.S.
 
 * **Finance & Strategy Lead** at [*Food52*](http://food52.com/), a venture-backed startup in New York getting people excited about cooking. I built a business analytics framework, created a five-year financial model and raised $6 million in venture capital.
