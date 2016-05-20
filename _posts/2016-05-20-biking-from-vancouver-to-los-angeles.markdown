@@ -5,6 +5,8 @@ date:   2016-05-20 17:15:14 -0400
 categories: biking
 ---
 
+![fig]({{ site.url }}/assets/2016-05-20-pacific-coast.jpg)
+
 I'm planning to bike from Vancouver to LA this summer.
 
 The trip would consist of:
