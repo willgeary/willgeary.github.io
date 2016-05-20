@@ -8,7 +8,7 @@ categories: biking
 
 <sub>*The road to Iona Island. Bear Mountain State Park, NY. Credit: Will Geary*</sub>
 
-# Day 1: Manhattan to Poughkeepsie, NY (83 miles)
+### Day 1: Manhattan to Poughkeepsie, NY (83 miles)
 
 Crossed over the George Washington Bridge to west side of the Hudson river. Up 9W through Nyack, Haverstraw and Bear Mountain. Took a detour in Bear Mountain State Park to check out Iona Island, a bird sanctuary with a reputation for serving as a home to bald eagles (didn't catch any).
 
