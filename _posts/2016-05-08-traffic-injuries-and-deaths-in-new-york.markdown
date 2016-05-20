@@ -4,6 +4,8 @@ title:  "What months are most dangerous for pedestrians and cyclists?"
 date:   2016-05-08 17:15:14 -0400
 categories: data
 ---
+![fig]({{ site.url }}/assets/2016-05-08-fig7.png)
+*<sub>Injuries and Deaths from Car Crashes in NYC, 2013 vs. 2015</sub>*
 
 Python has become a popular programming language for data analysis. It is free, flexible, easy to learn and has a robust ecosystem of useful tools. The following tutorial will run some basic wrangling and analysis tasks using Python and a few of it's data-oriented tools. We will look at NYC Motor Vehicle Collision [data set](https://data.cityofnewyork.us/Public-Safety/NYPD-Motor-Vehicle-Collisions/h9gi-nx95) provided by the New York Police Department via NYC Open Data.
 
