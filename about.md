@@ -13,8 +13,6 @@ I ride my bicycle every day and dream about biking, hiking and camping my way ar
 ![Me and my baby]({{ site.url }}/assets/bike_will.jpg)
 <sub>*A nerd and his bike.*</sub>
 
-
-
 #### Professional Experience
 * **Company Partnerships** at [*Venture for America*](http://ventureforamerica.org/), a national economic development organization revitalizing American cities through entrepreneurship. My job is to identify and build partnerships with early-stage startups and key stakeholders in cities across the U.S.
 
