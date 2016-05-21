@@ -15,11 +15,10 @@ This is what it looks like:
 Let's see what this data tells us about health and death in New York City.
 
 **A few data requests for the DOHMH:**
-* DATE: Please include the dates of each death, rather than simply the year.
-*HOSPITAL: Please include the address of the hospital where each individual passed away or was taken.
-*AGE: Please include the age of individual at their time of birth.
 
-With data requested above, we may be able to better understand the geography of health in New York City.
+* DATE: Please include the dates of each death, rather than simply the year.
+* AGE: Please include the age of individual at their time of birth.
+
 
 Below, let's use Python and several of its popular libraries to load, clean and explore the data.
 

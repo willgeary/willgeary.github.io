@@ -20,7 +20,7 @@ I ride my bicycle every day and dream about biking, hiking and camping my way ar
 
 * **Finance & Strategy Lead** at [*Food52*](http://food52.com/), a venture-backed startup in New York getting people excited about cooking. I built a business analytics framework, created a five-year financial model and raised $6 million in venture capital.
 
-* **Investment Banking Analyst** at *Bank of America Merrill Lynch*. Advised and executed on M&A, debt and equity transactions. Learned a lot about financial modeling, spreadsheets, powerpoints, sleeping under my desk...
+* **Investment Banking Analyst** at *Bank of America Merrill Lynch*. Advised and executed on mergers & acquisitions, debt and equity transactions. Learned a lot about financial modeling, spreadsheets, powerpoints, sleeping under my desk...
 
 #### Education
 * M.S. in Data Science, Columbia University, 2017 (expected)

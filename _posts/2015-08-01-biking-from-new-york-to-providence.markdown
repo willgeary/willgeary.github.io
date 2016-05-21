@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "New York to Providence, RI"
+title:  "New York to Rhode Island"
 date:   2015-08-01 17:15:14 -0400
 categories: biking
 ---
