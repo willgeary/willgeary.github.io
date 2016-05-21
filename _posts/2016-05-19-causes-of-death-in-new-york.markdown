@@ -17,7 +17,7 @@ Let's see what this data tells us about health and death in New York City.
 **A few data requests for the DOHMH:**
 
 * DATE: Please include the dates of each death, rather than simply the year.
-* AGE: Please include the age of individual at their time of birth.
+* AGE: Please include the age of individual at their time of death.
 
 
 Below, let's use Python and several of its popular libraries to load, clean and explore the data.
