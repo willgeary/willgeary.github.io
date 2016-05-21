@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Biking the Pacific Coast"
+title:  "Biking the Pacific Coast, Part 1: Planning"
 date:   2016-05-20 17:15:14 -0400
 categories: biking
 ---
@@ -15,21 +15,17 @@ The trip will look something like:
 
 ### 1. Train from New York to St. Albans, Vermont
 
-I'll be starting the voyage from my home in New York City. Good news: As of May 1 2016, Amtrak allows passengers to [bring bikes on-board](http://media.amtrak.com/2016/04/amtrak-now-offers-bike-service-on-the-vermonter/) the *Vermonter* train. Just in time. I'll plan to take the train up from New York to St. Albans, a small city in Vermont north of Burlington and south of the Canadian Border.
-
-**Days: 1**
+I'll be starting the voyage from my home in New York City. Good news: As of May 1 2016, Amtrak allows passengers to [bring bikes on-board](http://media.amtrak.com/2016/04/amtrak-now-offers-bike-service-on-the-vermonter/) the *Vermonter* train. Just in time. I'll plan to take the train up from New York to St. Albans, a small city in Vermont north of Burlington and south of the Canadian Border. Expected days: 1
 
 ![fig]({{ site.url }}/assets/2016-05-20-vermonter.png)
 
 ### 2. Bike from St. Albans, Vermont to Montreal (76 miles)
 
-I rode this strech once before when . It's special. You cycle past golden corn fields that dance with the wind until you reach the urban outskirts of Montreal. I'll camp somewhere in Montreal - perhaps Parque Jean Dreapau? The following morning I'll catch a train to Vancounver.
-
-**Days: 2**
+I rode this strech once before when . It's special. You cycle past golden corn fields that dance with the wind until you reach the urban outskirts of Montreal. I'll camp somewhere in Montreal - perhaps Parque Jean Dreapau? The following morning I'll catch a train to Vancounver. Expected days: 2
 
 ### 3. Train from Montreal to Vancouver (3 days)
 
-This one's a doozy. The VIA Rail runs from Montreal to Vancouver in three days. To me, this sounds like more fun than flying to Vancouver. It's also cheaper, doesn't require me to disassemble my bicycle, and affords the chance to soak in the scenery of Western Canada.
+This one's a doozy. The VIA Rail runs from Montreal to Vancouver in three days. To me, this sounds like more fun than flying to Vancouver. It's also cheaper, doesn't require me to disassemble my bicycle, and affords the chance to soak in the scenery of Western Canada. Expected days: 3
 
 ![fig]({{ site.url }}/assets/2016-05-20-via-rail-thru-canada.jpg)
 
@@ -37,12 +33,9 @@ This one's a doozy. The VIA Rail runs from Montreal to Vancouver in three days. 
 
 This is the first real cycling leg of my journey. I'll aim to average approximately 50 miles per day. Some days will be less, others more. Surely, I'll want to spend a few days here and there getting to know my environment in any particular forest, town or city that feels right. 
 
-At just over 400 miles, Vancouver to Astoria should take about 8 days on the bike. For planning purposes: let's round up and call it 10 days to allow for some wiggle room if things start off slowly.
-
-**Days: 10**
+At just over 400 miles, Vancouver to Astoria should take about 8 days on the bike. For planning purposes: let's round up and call it 10 days to allow for some wiggle room if things start off slowly. Expected days: 10
 
 ![fig]({{ site.url }}/assets/2016-05-20-vancouver-astoria.gif)
-
 
 ### 5. Bike from Astoria, Oregon to Crescent City, CA (407 miles)
 
