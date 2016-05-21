@@ -25,4 +25,4 @@ I ride my bicycle every day and dream about biking, hiking and camping my way ar
 * B.S. in Economics & B.A. in Philosophy, Duke University, 2012
 * Coursework in Econometrics, London School of Economics, 2011
 
-*This site was built using [Jekyll](https://jekyllrb.com), a static website generator, and [GitHub Pages](https://pages.github.com), which lets you host directly from a GitHub repository. I recommend [this tutorial](codeacademy deploy a website) if you're curious to learn more.
+<sub>*This site was built using [Jekyll](https://jekyllrb.com), a static website generator, and [GitHub Pages](https://pages.github.com), which lets you host directly from a GitHub repository. I recommend [this tutorial](codeacademy deploy a website) if you're curious to learn more.*</sub>
