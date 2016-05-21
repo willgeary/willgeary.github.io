@@ -49,10 +49,9 @@ The second leg of the trip starts off in Astoria, the Northwest corner of Oregon
 
 Push on down the California coast line all the way down to San Francisco. I'm particularly excited about seeing the "Lost Coast". The Lost Coast is a remote stretch of the California coastline so rugged that it forced the Coast Highway inland. With no road or cell phone signal for miles, the Lost Coast is a rare stretch of undeveloped coastline.
 
-![fig]({{ site.url }}/assets/2016-05-20-astoria-crescent-city.gif)
+![fig]({{ site.url }}/assets/2016-05-20-crescent-city-san-francisco.gif)
 
-
-**Days: 10**
+* Expected Days: 10 *
 
 ### 7. Bike from San Francisco to Santa Barbara, CA (382 miles)
 
