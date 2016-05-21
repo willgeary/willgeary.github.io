@@ -204,13 +204,4 @@ It turns out that deaths from heart disease has been dropping steadily in Americ
 
 Deaths from heart disease in New York has dropped the most for white people. Why is that?
 
-More to come...
-
-
-
-
-
-
-
-
-Why do did fewer people die in 2011 than 2007?  
+## More to come...
