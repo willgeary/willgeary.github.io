@@ -9,7 +9,7 @@ categories: biking
 
 I'm planning to bike from Vancouver to LA this summer. I'm leaving my job on June 10th and starting grad school on September 6th. This leaves a nice chunk of time for an adventure. It's been a dream of mine to bike across the country, which would take about 3 months. I don't have enough time for that right now.  But I do have a 1.5 month window to ride down the pacific coast. 
 
-I've been eager to explore the mountains, forests and coasts of the Pacific Northwest for years. I'll start the ride in Vancouver and ride down the Oregan coast line through Northern California, all the way South through Big Sur, ultimately arriving in LA.
+I've long been eager to explore the mountains, forests and coasts of the Pacific Northwest. I'll start the ride in Vancouver and ride down the Oregan coast line through Northern California, all the way South through Big Sur, ultimately arriving in LA.
 
 The trip will look something like:
 
@@ -39,13 +39,18 @@ At just over 400 miles, Vancouver to Astoria should take about 8 days on the bik
 
 ### 5. Bike from Astoria, Oregon to Crescent City, CA (407 miles)
 
-The second leg of the trip starts off in Astoria, the Northwest corner of Oregon and heads South, hugging the pacific cost. 
+The second leg of the trip starts off in Astoria, the Northwest corner of Oregon and heads South, hugging the pacific coast. 
 
 ![fig]({{ site.url }}/assets/2016-05-20-astoria-crescent-city.gif)
 
 *Expected days: 10*
 
 ### 6. Bike from Crescent City, CA to San Francisco (412 miles)
+
+Push on down the California coast line all the way down to San Francisco. I'm particularly excited about seeing the "Lost Coast". The Lost Coast is a remote stretch of the California coastline so rugged that it forced the Coast Highway inland. With no road or cell phone signal for miles, the Lost Coast is a rare stretch of undeveloped coastline.
+
+![fig]({{ site.url }}/assets/2016-05-20-astoria-crescent-city.gif)
+
 
 **Days: 10**
 
