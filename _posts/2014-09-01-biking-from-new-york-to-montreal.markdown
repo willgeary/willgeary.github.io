@@ -3,7 +3,6 @@ layout: post
 title:  "New York to Montreal"
 date:   2014-09-01 17:15:14 -0400
 categories: biking
-image: /assets/vermont1a.jpg
 ---
 ![fig]({{ site.url }}/assets/vermont1.jpg)
 
