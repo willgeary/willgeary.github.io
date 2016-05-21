@@ -71,8 +71,14 @@ The map below goes all the way down to San Diego and Imperial Beach at the U.S. 
 
 That's a total of **4 days** on the **train** and **40 days** on the **bike** including ample number of days to rest and explore. If all goes according to plan, I'll leave New York on Monday, July 11th and be back in time for an "orientation day" for income data science graduate students at Columbia on Monday, August 22nd.
 
-### How will I get back from LA to NYC? (TBU)
+### How will I get back from LA to NYC?
+
+I'm planning to return home by train to complete the loop. Did you know that you can travel from coast to coast by train for as little as $280?
+
+Amtrak offers a southern route long-distance train with double-deck Superliner cars that runs from Los Angeles to New York by way of Arizona, Texas and New Orleans. From New Orleans you shoot North through Memphis to Chicago, and then East through Cleveland and Pittsburgh to D.C., and ultimately New York.
 
 ![fig]({{ site.url }}/assets/2016-05-20-amtrak-system.png)
+
+There's a lot of logistics I still need to figure out. Namely, can I carry my bike on-board each leg of the Amtrak journey home?
 
 
