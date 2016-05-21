@@ -79,7 +79,7 @@ The map below goes all the way down to San Diego and Imperial Beach at the U.S. 
 
 That's a total of **4 days** on the **train** and **40 days** on the **bike** including ample number of days to rest and explore. If all goes according to plan, I'll leave New York on Monday, July 11th and be back in time for an "orientation day" for income data science graduate students at Columbia on Monday, August 22nd.
 
-### How will I get back from LA to NYC?
+### Getting home
 
 I'm planning to return home by train to complete the loop. Did you know that you can travel from coast to coast by train for as little as $280?
 
