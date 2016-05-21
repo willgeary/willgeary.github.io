@@ -61,13 +61,15 @@ Push on down the California coast line all the way down to San Francisco. I'm pa
 
 ### 8. Bike from Santa Barbara, CA to Los Angeles (115 miles)
 
-**Days: 2**
+The map below goes all the way down to San Diego and Imperial Beach at the U.S. / Mexico border. I would love to extend my journey down to the border, but my trip will probably terminate in Los Angeles to do time restrictions.
 
+![fig]({{ site.url }}/assets/2016-05-20-santa-barbara-imperial-beach.gif)
+
+* Expected Days: 2 *
 
 ### For a total length of 1,793 miles by bike
 
 That's a total of **4 days** on the **train** and **40 days** on the **bike** including ample number of days to rest and explore. If all goes according to plan, I'll leave New York on Monday, July 11th and be back in time for an "orientation day" for income data science graduate students at Columbia on Monday, August 22nd.
-
 
 ### How will I get back from LA to NYC? (TBU)
 
