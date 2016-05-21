@@ -193,6 +193,8 @@ plt.title('Deaths from Heart Disease in NYC', fontsize=18)
 plt.xlabel('Year',fontsize=14);
 {% endhighlight %}
 
+![fig]({{ site.url }}/assets/2016-05-19-fig10.png)
+
 {% highlight python %}
 Deaths from heart disease among white people decreased -27% from 2007 to 2011.
 Deaths from heart disease among black people decreased -16% from 2007 to 2011.
