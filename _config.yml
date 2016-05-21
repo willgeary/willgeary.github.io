@@ -19,3 +19,6 @@ facebook_username: wcgeary
 
 # Build settings
 markdown: kramdown
+
+gems:
+  - jekyll-auto-image

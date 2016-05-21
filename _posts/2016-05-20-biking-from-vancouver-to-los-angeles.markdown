@@ -69,7 +69,7 @@ This leg of the journey will take me through Big Sur, where I plan to spend a fe
 
 ### 8. Bike from Santa Barbara, CA to Los Angeles (115 miles)
 
-The map below goes all the way down to San Diego and Imperial Beach at the U.S. / Mexico border. I would love to extend my journey down to the border, but my trip will probably terminate in Los Angeles due to time restrictions.
+The map below goes all the way down to San Diego and Imperial Beach at the U.S. / Mexico border. I would love to extend my journey down to the border, but my trip will probably terminate in Los Angeles due to time restrictions and travel logistics.
 
 ![fig]({{ site.url }}/assets/2016-05-20-santa-barbara-imperial-beach.gif)
 
