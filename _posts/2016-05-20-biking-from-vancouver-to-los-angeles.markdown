@@ -55,7 +55,9 @@ Push on down the California coast line all the way down to San Francisco. I'm pa
 
 ### 7. Bike from San Francisco to Santa Barbara, CA (382 miles)
 
-**Days: 8**
+![fig]({{ site.url }}/assets/2016-05-20-san-francisco-santa-barbara.gif)
+
+* Expected Days: 8 *
 
 ### 8. Bike from Santa Barbara, CA to Los Angeles (115 miles)
 
