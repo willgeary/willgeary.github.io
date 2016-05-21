@@ -81,8 +81,6 @@ Amtrak offers a southern route long-distance train with double-deck Superliner c
 
 There's a lot of logistics I still need to figure out. Namely, can I carry my bike on-board each leg of the Amtrak journey home? More to come here.
 
-
-
 * Maps courtesy of [Adventure Cycling Association](https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/pacific-coast/) *
 
 
