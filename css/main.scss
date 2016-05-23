@@ -1,6 +1,6 @@
 ---
 layout: null
-# Only the main Sass file needs front matter (the dashes are enough)
+published: true
 ---
 
 @charset "utf-8";
@@ -8,7 +8,7 @@ layout: null
 
 
 // Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 $base-font-size:   16px;
 $base-font-weight: 200;
 $small-font-size:  $base-font-size * 0.875;
