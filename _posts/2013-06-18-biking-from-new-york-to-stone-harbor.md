@@ -1,5 +1,8 @@
 ---
 published: true
+layout: post
+date: "2013-06-18 17:15:14 -0400"
+categories: biking
 ---
 ![fig](http://67.media.tumblr.com/tumblr_m6kr2hAPzJ1rsd8qio1_1280.jpg)
 
