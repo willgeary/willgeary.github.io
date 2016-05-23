@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: "2013-06-18 17:15:14 -0400"
 categories: biking
@@ -46,4 +46,3 @@ Good night.
 Highlight of the trip: the new 9th Street Bridge in Ocean City, NJ. Feels like a roller coaster.
 
 ![fig](http://67.media.tumblr.com/tumblr_m6kr2hAPzJ1rsd8qio1_1280.jpg)
-
