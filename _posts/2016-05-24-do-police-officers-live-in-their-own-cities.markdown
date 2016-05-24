@@ -121,3 +121,5 @@ fig.savefig('police.png', dpi=600)
 
 Not quite as pretty, but we're getting somewhere!
 
+You may view my jupyter notebook [here](https://github.com/willgeary/willgeary.github.io/blob/master/_notebooks/2016-05-20-police-live-outside-cities.ipynb).
+
