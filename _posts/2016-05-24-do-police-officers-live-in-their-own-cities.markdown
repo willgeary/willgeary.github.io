@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Percentage of Police Officers Live in their Cities?"
+title:  "What percentage of police officers live in their cities?"
 date:   2016-05-24 11:15:14 -0400
 categories: data
 ---
