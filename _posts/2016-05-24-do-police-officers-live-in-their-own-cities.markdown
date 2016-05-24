@@ -20,3 +20,101 @@ Silver visualizes this metric by ethnicity for each city in the census in the be
 
 ![fig]({{ site.url }}/assets/2016-05-24-fig1.png)
 
+The data behind this plot can be found on [Github](https://github.com/fivethirtyeight/data/tree/master/police-locals). Let's see if we can recreate this plot.
+
+## About the data
+
+Police residence data
+
+The raw data behind the story, [Most Police Don’t Live In The Cities They Serve](http://fivethirtyeight.com/datalab/most-police-dont-live-in-the-cities-they-serve/)
+
+Includes the cities with the 75 largest police forces, with the exception of Honolulu for which data is not available. All calculations are based on data from the U.S. Census.
+
+The Census Bureau numbers are potentially going to differ from other counts for three reasons:
+
+The census category for police officers also includes sheriffs, transit police and others who might not be under the same jurisdiction as a city’s police department proper. The census category won’t include private security officers.
+The census data is estimated from 2006 to 2010; police forces may have changed in size since then.
+There is always a margin of error in census numbers; they are estimates, not complete counts.
+
+Data definitions:
+
+* city:               U.S. city
+* police_force_size:  Number of police officers serving that city
+* all:              Percentage of the total police force that lives in the city
+* white:              Percentage of white (non-Hispanic) police officers who live in the city
+* non-white:          Percentage of non-white police officers who live in the city
+* black:              Percentage of black police officers who live in the city
+* hispanic:         Percentage of Hispanic police officers who live in the city
+* asian:              Percentage of Asian police officers who live in the city
+
+Note: When a cell contains '**' it means that there are fewer than 100 police officers of that race serving that city.
+
+## Prepare the environment
+
+```python
+from IPython.display import Image
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import statsmodels.api as sm
+from statsmodels.nonparametric.kde import KDEUnivariate
+from statsmodels.nonparametric import smoothers_lowess
+from pandas import Series, DataFrame
+
+plt.style.use('fivethirtyeight')
+%matplotlib inline
+```
+
+## Load in the data
+
+```python
+url = "https://raw.githubusercontent.com/fivethirtyeight/data/master/police-locals/police-locals.csv"
+df = pd.read_csv(url)
+df.head()
+```
+![fig]({{ site.url }}/assets/2016-05-24-fig2.png)
+
+## Visualize the data
+
+```python
+# Create figure using matplotlib
+fig, ax = plt.subplots(figsize=(10, 25))
+
+# Set the title
+ax.set_title("Percentage of Police Officers that Live in the City",fontsize=14,y=1.03)
+# Set the axes labels
+ax.set_xlabel("Percentage",fontsize=12)
+ax.set_ylabel("City",fontsize=12)
+# Make the grid lighter
+ax.grid(True,linestyle='-',color='0.9')
+# Set the axes limits
+ax.set_ylim([-1,len(df['city'])])
+ax.set_xlim(0,1)
+# Set y axis ticks to be the sorted list of cities
+plt.yticks(range(len(df['city'])), df['city'])
+# Set x axis labels on both bottom and top
+ax.tick_params(labelbottom='on',labeltop='on')
+# Set alpha so the scatter dots are a bit faded
+alpha=0.7
+
+# Plot the 'Total' data
+total = ax.scatter(df['all'], range(len(df['all'])), color='black', marker='o', alpha=alpha)
+
+# Plot the 'White' data
+white = ax.scatter(df['white'], range(len(df['white'])), marker='o', alpha=alpha)
+
+# Plot the 'Nonwhite' data
+nonwhite = ax.scatter(df['non-white'], range(len(df['non-white'])), color='green', marker='o', alpha=alpha)
+
+# Create legend
+plt.legend([total, white, nonwhite], ['TOTAL', 'WHITE', 'NONWHITE'],
+          bbox_to_anchor=(0., 1.02, 1., .102), loc=3, mode="expand", ncol=3,
+           borderaxespad=-0.1, fontsize=10)
+
+fig.tight_layout()
+
+# Save figure
+fig.savefig('police.png', dpi=600)
+```
+
+
