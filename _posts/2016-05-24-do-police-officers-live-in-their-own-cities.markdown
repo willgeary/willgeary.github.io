@@ -117,4 +117,7 @@ fig.tight_layout()
 fig.savefig('police.png', dpi=600)
 ```
 
+![fig]({{ site.url }}/assets/2016-05-24-fig3.png)
+
+Not quite as pretty, but we're getting somewhere!
 
