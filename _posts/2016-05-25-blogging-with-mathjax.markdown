@@ -59,7 +59,11 @@ $$
 
 The [LaTeX wikibook](https://en.wikibooks.org/wiki/LaTeX/Mathematics) is a useful resource for examples and syntax.
 
+&nbsp;
+
 ----------------
+
+&nbsp;
 
 ## Setting up MathJax with Jekyll
 
@@ -74,6 +78,12 @@ To load the MathJax javascript on blog posts, add the following lines in the `po
 ```
 
 That's all! Now you can start writing in MathJax.
+
+&nbsp;
+
+----------------
+
+&nbsp;
 
 ## Some examples
 
@@ -189,8 +199,11 @@ f(n) =
   \end{cases}
 ```
 
-------------------
+&nbsp;
 
+-----------------
+
+&nbsp;
 
 ## Using color
 
@@ -238,6 +251,12 @@ e^{\mathrm{i} \color{circle} 2\pi \color{freq}k
 \color{average} \frac{n}{N}}
 $$
 ```
+
+&nbsp;
+
+-----------
+
+&nbsp;
 
 ## Useful resources
 
