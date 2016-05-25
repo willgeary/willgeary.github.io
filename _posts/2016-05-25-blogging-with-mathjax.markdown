@@ -171,7 +171,7 @@ A_{m,n} =
 $$
 ```
 
-#### Inserting space with `quad`
+#### Inserting space with `quad`:
 
 $$
 f(n) =
