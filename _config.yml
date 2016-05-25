@@ -20,5 +20,8 @@ facebook_username: wcgeary
 # Build settings
 markdown: kramdown
 
+redcarpet:
+  extensions: ["smart", "tables"]
+
 gems:
   - jekyll-auto-image

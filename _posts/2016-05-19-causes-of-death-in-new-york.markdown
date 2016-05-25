@@ -207,3 +207,51 @@ It turns out that deaths from heart disease has been dropping steadily in Americ
 Deaths from heart disease in New York has dropped the most for white people. Why is that?
 
 ## More to come...
+
+
+$$
+X \rightarrow Y \rightarrow \hat{X}
+$$
+
+$$
+\Rightarrow
+$$
+
+$$
+I(\hat{X};X) \leq I(Y;X)
+$$
+
+We're not quite done. The fundamental problem is not simply *learning about the world*, but rather *human learning about the world*. The full model might look something like this:
+
+$$
+\text{world} \rightarrow \text{measurements} \rightarrow \text{analysis} \rightarrow [perception] \rightarrow \text{understanding}
+$$  
+
+$$a^2 + b^2 = c^2$$
+
+
+$$\definecolor{limegreen}{RGB}{50,205,50}$$
+$$\definecolor{blue}{RGB}{0,0,255}$$
+$$\definecolor{black}{RGB}{0,0,0}$$
+$$\definecolor{spin}{RGB}{251,0,29}$$
+$$\definecolor{signal}{RGB}{18,110,213}$$
+$$\definecolor{circle}{RGB}{217,86,16}$$
+$$\definecolor{average}{RGB}{203,23,206}$$
+$$\color{energy} X_{\color{freq} k} \color{black} \color{average} \frac{1}{N} \sum_{n=0}^{N-1}$$
+$$\color{signal}x_n \color{spin}$$
+$$e^{\mathrm{i} \color{circle} 2\pi \color{freq}k$$
+$$\color{average} \frac{n}{N}}$$
+
+$$\color{limegreen} Your\ ownership\ percentage\ ( \% ) \color{black} = \frac{Number \ of\ Options}{Fully\ Diluted\ Shares\ Outstanding}\ \ \  $$
+
+$$\ $$
+$$\ $$
+
+$$\color{blue}Company\ value \color{black} = Valuation\ During\ Last\ Round\ \ \ \ $$
+
+$$\ $$
+$$\ $$
+$$\ $$
+
+$$Your\ ownership\ value\ (\$) = \color{limegreen} Your\ Ownership\ Percentage \ \ \color{black} x \ \ \color{blue} Company\ Value \ \ \  $$
+
