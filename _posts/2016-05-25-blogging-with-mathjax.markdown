@@ -89,7 +89,8 @@ a^2 + b^2 = c^2
 $$
 ```
 
-Fractions:
+#### Fractions:
+
 $$
 \frac{n!}{k!(n-k)!} = \binom{n}{k}
 $$
@@ -100,7 +101,7 @@ $$
 $$
 ```
 
-Continued Fractions:
+#### Continued Fractions:
 
 $$
 \begin{equation}
@@ -118,7 +119,7 @@ $$
 \end{equation}
 ```
 
-Symbols:
+#### Symbols:
 
 $$
 X \rightarrow Y \rightarrow \hat{X}
@@ -146,7 +147,7 @@ I(\hat{X};X) \leq I(Y;X)
 $$
 ```
 
-Matrices:
+#### Matrices:
 
 $$
 A_{m,n} = 
@@ -169,6 +170,30 @@ A_{m,n} =
  \end{pmatrix}
 $$
 ```
+
+#### Inserting space with `quad`
+
+$$
+\[ f(n) =
+  \begin{cases}
+    n/2       & \quad \text{if } n \text{ is even}\\
+    -(n+1)/2  & \quad \text{if } n \text{ is odd}\\
+  \end{cases}
+\]
+$$
+
+```html
+\[ f(n) =
+  \begin{cases}
+    n/2       & \quad \text{if } n \text{ is even}\\
+    -(n+1)/2  & \quad \text{if } n \text{ is odd}\\
+  \end{cases}
+\]
+```
+
+------------------
+
+
 ## Using color
 
 In order to use color, you need to include the following script in the `post.html` file in the `_layouts` folder in your Jekyll file structure:
