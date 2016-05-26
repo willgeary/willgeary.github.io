@@ -138,7 +138,7 @@ leg3 = plt.Rectangle((0,0),1,1,fc='g', edgecolor='none')
 leg4 = plt.Rectangle((0,0),1,1,fc='r', edgecolor='none')
 
 l = plt.legend([leg1, leg2, leg3, leg4], ['Housing', 'Food', 'Transportation', 'Income'],
-               bbox_to_anchor=(.8,1.03), ncol = 4, prop={'size':16})
+               bbox_to_anchor=(.8,1.01), ncol = 4, prop={'size':16})
 l.draw_frame(False)
 
 # Format y axis ticks
@@ -200,21 +200,21 @@ plt.xticks(rotation=90)
 # ==== Add text ==== #
 
 # Title
-ax.annotate("Rising rent costs are devastating to low-income families",
+title = ax.annotate("Rising rent costs are devastating to low-income families",
             (0,0), (-75, 550), textcoords='offset points', color='gray', fontsize=26, fontweight='heavy')
 
 # Subtitle
 ax.annotate("Median incomes and costs of housing, food and transportation across income",
-            (0,0), (-75, 520), textcoords='offset points', color='gray', fontsize=18, style='italic')
+            (0,0), (-75, 525), textcoords='offset points', color='gray', fontsize=18, style='italic')
 ax.annotate("groups from 1996 to 2014. Figures adjusted for inflation.",
-            (0,0), (-75, 500), textcoords='offset points', color='gray', fontsize=18, style='italic')
+            (0,0), (-75, 505), textcoords='offset points', color='gray', fontsize=18, style='italic')
 
 # Plot 1 annotations
 ax1.annotate("'96", (0,0), (0, -5), xycoords='axes fraction', textcoords='offset points',
              va='top', color='gray')
 ax1.annotate("'14", (0,0), (180, -5), xycoords='axes fraction', textcoords='offset points',
              va='top', color='gray')
-ax1.annotate("Lower", (0,0), (70, -20), xycoords='axes fraction', textcoords='offset points',
+lower_annotate = ax1.annotate("Lower", (0,0), (70, -20), xycoords='axes fraction', textcoords='offset points',
             va='top', color='gray', fontsize=22, fontweight='bold')
 
 # Plot 2 annotations
@@ -232,11 +232,13 @@ ax3.annotate("'14", (0,0), (180, -5), xycoords='axes fraction', textcoords='offs
              va='top', color='gray')
 ax3.annotate("Upper", (0,0), (70, -20), xycoords='axes fraction', textcoords='offset points',
             va='top', color='gray', fontsize=22, fontweight='bold')
-;
+
+fig.tight_layout()
+fig.savefig('/Users/Will/personal-website/assets/2016-05-26-fig3.png', bbox_extra_artists=(l,title, lower_annotate),
+            bbox_inches='tight')
 ```
 
 ![fig]({{ site.url }}/assets/2016-05-26-fig3.png)
-
 
 
 
