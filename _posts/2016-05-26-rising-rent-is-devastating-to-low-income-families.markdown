@@ -242,6 +242,8 @@ fig.savefig('/Users/Will/personal-website/assets/2016-05-26-fig3.png', bbox_extr
 
 Pretty close!
 
+Check out the jupter notebook [here](http://nbviewer.jupyter.org/github/willgeary/willgeary.github.io/blob/master/_notebooks/2016-05-26-rising-rent-costs.ipynb).
+
 
 
 
