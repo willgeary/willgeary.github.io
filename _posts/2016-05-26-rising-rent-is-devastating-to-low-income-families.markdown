@@ -240,6 +240,7 @@ fig.savefig('/Users/Will/personal-website/assets/2016-05-26-fig3.png', bbox_extr
 
 ![fig]({{ site.url }}/assets/2016-05-26-fig3.png)
 
+Pretty close!
 
 
 
