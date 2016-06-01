@@ -17,9 +17,6 @@ Text here
 
 Text here
 
-![fig]({{ site.url }}/assets/2016-06-01-fig2.jpg)
-
-
 # III. Smoke Hole to Seneca Rocks
 
 Text here
