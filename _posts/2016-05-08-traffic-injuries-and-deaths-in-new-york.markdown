@@ -219,17 +219,4 @@ fig.tight_layout();
 
 
 
-```python
-def hello(x):
-  print 'Hello, ', x
-```
-
-$$ X \rightarrow Y \rightarrow \hat{X} $$
-
-
-
-
-
-
-
 
