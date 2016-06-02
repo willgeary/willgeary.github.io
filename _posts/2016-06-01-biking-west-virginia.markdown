@@ -5,7 +5,7 @@ date:   2016-06-01 07:15:14 -0400
 categories: draft
 ---
 
-![fig]({{ site.url }}/assets/2016-06-01-fig1.jpg)
+![fig](https://scontent-lga3-1.xx.fbcdn.net/v/l/t1.0-9/13307299_10102542114514000_5256498304738174800_n.jpg?oh=edfe6996bc03e3016b706dab910ace73&oe=57E307C4)
 
 This post was co-authored by the venerable [Louise Contino](http://www.picturingwanteete.com/).
 
