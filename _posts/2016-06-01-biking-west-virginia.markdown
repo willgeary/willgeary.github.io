@@ -11,7 +11,10 @@ This post was co-authored by the venerable [Louise Contino](http://www.picturing
 
 # I. Monterrey, VA to Franklin, WV
 
-Text here
+We drove with our bikes and gear from New York to Monterey, a small town on the Virgina / West Virginia border. We grabbed a burger and some coffee to fuel up for our first day at The Real Deal, one of the few restaurants in town. The owner was kind enough to let us keep our car there for the three days we'd be riding. He also served up a tasty burger.
+
+![fig](http://s3.amazonaws.com/vaorg-listingimages/21138/IMG_20150703_153310711_HDR_large.jpg)
+<sub>*The Real Deal. Monterey, Virginia.*</sub>
 
 # II. Franklin, WV to Smoke Hole Campground
 
