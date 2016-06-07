@@ -26,7 +26,6 @@ This data includes annual amounts for expenditure on food, housing, transportati
 
 ## Load the data
 
-```python
 from IPython.display import Image
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm

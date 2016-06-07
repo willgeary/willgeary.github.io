@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm Will Geary, an aspiring data scientist living in Brooklyn, New York.
 
-I've worked as an analyst at established companies and early-stage startups. Starting in the Fall, I'll be a full-time graduate student at Columbia University pursuing a [master's degree in data science](http://datascience.columbia.edu/master-of-science-in-data-science). I’m excited about the implications of machine learning and computer vision on sustainability and mobility in cities of the future. 
+I've analyzed data at established companies and early-stage startups. Starting in the Fall, I'll be a full-time graduate student at Columbia University pursuing a [master's degree in data science](http://datascience.columbia.edu/master-of-science-in-data-science). I'm passionate about sustainability and mobility in cities of the future. Urban planning and transportation are becoming increasingly data-driven, and I'm eager to be a part of this movement!
 
 I ride my bicycle every day and dream about biking, hiking and camping my way around the world. I love cities and have a [street photography habit](https://www.instagram.com/willcgeary/).
 
