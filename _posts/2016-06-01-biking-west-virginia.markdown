@@ -2,7 +2,7 @@
 layout: post
 title: 'West Virginia, Mountain Mama'
 date: '2016-06-01 07:15:14 -0400'
-categories: biking
+categories: draft
 published: true
 ---
 
