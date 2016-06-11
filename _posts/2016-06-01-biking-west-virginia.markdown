@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "West Virginia, Mountain Mama"
-date:   2016-06-01 07:15:14 -0400
-categories: draft
+title: 'West Virginia, Mountain Mama'
+date: '2016-06-01 07:15:14 -0400'
+categories: biking
+published: true
 ---
 
 ![fig](https://scontent-lga3-1.xx.fbcdn.net/v/l/t1.0-9/13307299_10102542114514000_5256498304738174800_n.jpg?oh=edfe6996bc03e3016b706dab910ace73&oe=57E307C4)
@@ -20,6 +21,9 @@ We drove with our bikes and gear from New York to Monterey, a small town on the 
 
 Text here
 
+![fig]({{ site.url }}/assets/2016-05-20-pacific-coast.jpg)
+
+
 # III. Smoke Hole to Seneca Rocks
 
 Text here
@@ -33,4 +37,3 @@ Text here. Description of Mountain Institute
 Text here.
 
 ![fig](http://www.ezilon.com/maps/images/usa/west_virginia_simple.gif)
-
