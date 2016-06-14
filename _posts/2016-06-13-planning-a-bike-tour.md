@@ -6,9 +6,8 @@ categories: biking
 ---
 
 [![fig](http://i.imgur.com/ircqmIm.png)](https://goo.gl/maps/qyHwe93xyzT2)
-<sub>*Piscataway Township, NJ.*</sub>
 
-<sub>Deception Pass. Fidalgo Island, Washington.</sub>
+<sub>*Deception Pass. Fidalgo Island, Washington.*</sub>
 
 
 
