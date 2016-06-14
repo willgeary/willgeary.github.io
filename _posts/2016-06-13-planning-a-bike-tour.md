@@ -40,18 +40,22 @@ For example, the below map contains fragments of street maps ("unities of ambian
 [![fig](https://mappingweirdstuff.files.wordpress.com/2009/06/debord-guide1.jpg)](https://mappingweirdstuff.files.wordpress.com/2009/06/debord-guide1.jpg)
 <sub>*Guy Debord, Guide Psychogéographique de Paris*</sub>
 
-Most psychogeographic reports of dérive involve wandering a city by foot to acheive a heightened sense of emotional and spatial awareness. I believe that the bicycle, too, is a tool well-suited for the job. The bicycle enables us to experience and cataglogue a diverse variety of environments. This allows for the detection of fluctuating emotionscapes not only from one urban block to the next, but in the transition between vastly different landscapes, from urban to rural, mountains to plains, deserts to coastlines. It is a perhaps a practice nuanced enough to warrant its own term... Cyclegeogaphy, if you will :)
+Most psychogeographic reports of dérive involve wandering a city by foot to acheive a heightened sense of emotional and spatial awareness. I believe that the bicycle, too, is a tool well-suited for the job. The bicycle enables us to experience and cataglogue a diverse variety of environments. This allows for the detection of fluctuating emotionscapes not only from one urban block to the next, but in the transition between vastly different landscapes, from urban to rural, mountains to plains, deserts to coastlines. It is a perhaps a practice nuanced enough to warrant its own term... ***Cycle-geography***, if you will :)
 
-So, *why?*, you ask? Because riding a bike is fun!
+*Why?* - you ask? Because riding a bike is fun!
 
 ## How?
-Now that you have the *Why?* - let's move on to the *How?* How does one plan and then ride a long bicycle tour?
+Now that you have the *Why* - let's move on to the *How*. 
+
+How does one plan and ride a long bicycle tour?
 
 Like most problems, it helps to break things up into parts. For example, I am planning to bike the pacific coast this summer, which has been a dream of mine for quite some time. When prospecting a bicycle tour, I generally start by doing some research to see if anyone else ridden and documented a similar route. As it turns out in this case - [*tons of people have*](https://www.google.com/webhp?sourceid=chrome-instant&rlz=1C1LENP_enUS506US506&ion=1&espv=2&ie=UTF-8#q=biking%20the%20pacific%20coast). 
 
-Some of my favorite sources range from the institutional [Adventure Cycling Association](https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/pacific-coast/) to the homegrown [Crazy Guy on a Bike](https://www.crazyguyonabike.com/doc/?doc_id=3821) forum, which is an amazing repository of tips and stories from other wide-eyed guys and girls who have *gone around the bend*.
+Some of my favorite sources range from the institutional [Adventure Cycling Association](https://www.adventurecycling.org/routes-and-maps/adventure-cycling-route-network/pacific-coast/) to the homegrown [Crazy Guy on a Bike](https://www.crazyguyonabike.com/doc/?doc_id=3821) forum, which is an amazing repository of tips and stories from other wide-eyed guys and girls who have *gone around the bend*. The best resource, of course, is local knowledge from friends and "real live people" who live or have spent time along your route.
 
+What happens next is a fervent mix of theft and creation. I steal what I like - trails, campgrounds, hot springs, hostels, burger joints, dive bars, beaches, bridges, ferries, cities, towns, short cuts, long cuts - and combine them with some new ideas of my own to create a unique hodgepodge of psychogeographic delight.
 
 ## Planning the Route
+I use 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
