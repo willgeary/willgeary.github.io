@@ -4,11 +4,15 @@ layout: post
 date: '2016-06-03 07:15:14 -0400'
 categories: biking
 ---
-<iframe src="https://goo.gl/maps/qyHwe93xyzT2" width="640" height="480"></iframe>
-Deception Pass. Fidalgo Island, Washington.
 
-![fig](http://i.imgur.com/llWZkvE.png)
-Salivating over the Astoria-Megler Bridge, which connects coastal Washington and Oregon.
+[<img src="http://i.imgur.com/ircqmIm.png">](https://goo.gl/maps/qyHwe93xyzT2)
+
+
+![fig](http://i.imgur.com/ircqmIm.png)
+
+<sub>Deception Pass. Fidalgo Island, Washington.</sub>
+
+
 
 ## Quiet Mind Times
 
