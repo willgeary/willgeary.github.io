@@ -66,8 +66,8 @@ I use Google's [My Maps](https://www.google.com/maps/d/u/1/edit?authuser=1&mid=1
 
 Planning a trip like this is a fun, iterative process involving tradeoffs around every corner. For example, should I ride from Vancouver to Seattle through Bellingham? Or should I explore Vancouver Island and the San Juans? Or both? As you'll see below, I chose both and am looking forward to island-hopping from Vancouver to Seattle (no one said ferries are illegal!).
 
-[![fig](http://i.imgur.com/y8GWTs8.png)](https://www.google.com/maps/place/Bixby+Bridge/@36.3715976,-121.9018369,3a,75y,198.71h,74.35t/data=!3m7!1e1!3m5!1sMBgbUZahRTmQpVraI_bGzw!2e0!6s%2F%2Fgeo3.ggpht.com%2Fcbk%3Fpanoid%3DMBgbUZahRTmQpVraI_bGzw%26output%3Dthumbnail%26cb_client%3Dmaps_sv.tactile.gps%26thumb%3D2%26w%3D203%26h%3D100%26yaw%3D59.726517%26pitch%3D0!7i13312!8i6656!4m5!3m4!1s0x808d94a0a7c313c9:0x89526bd7a2901627!8m2!3d36.3714174!4d-121.9017165!6m1!1e1)
-<sub>*Bixby Creek Bridge. Big Sur, California.*</sub>
+[![fig](http://i.imgur.com/F6hjKxO.png)](https://www.google.com/maps/@36.2740008,-121.8468033,3a,75y,192.69h,82.93t/data=!3m6!1e1!3m4!1s8mbD_aNYmaKjuWf3_VMYhQ!2e0!7i13312!8i6656)
+<sub>*Bluffs Trail, Andrew Molera State Park. Big Sur, California.*</sub>
 
 Below is my route as it currently stands. It will likely grow to include more attractions and special places over the coming weeks. You can toggle on and off the campgrounds and hostels that I identified along the route (open the sidebar and scroll down to do so). 
 
