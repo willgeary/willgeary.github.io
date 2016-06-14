@@ -27,10 +27,6 @@ It is easy to tune out. Life often requires us to focus on getting through place
 
 
 
-
-I enjoy reading about 
-
-
 ## Planning
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
