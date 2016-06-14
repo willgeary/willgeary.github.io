@@ -5,7 +5,7 @@ date: '2016-06-03 07:15:14 -0400'
 categories: biking
 ---
 
-[<img src="http://i.imgur.com/ircqmIm.png">](https://goo.gl/maps/qyHwe93xyzT2)
+[![fig](http://i.imgur.com/ircqmIm.png)](https://goo.gl/maps/qyHwe93xyzT2)
 
 
 ![fig](http://i.imgur.com/ircqmIm.png)
