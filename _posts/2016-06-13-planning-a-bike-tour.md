@@ -36,11 +36,11 @@ Psychogeography encapsulates a toolbox of playful strategies for exploring urban
 
 > Dérive: “A mode of experimental behavior linked to the condition of urban society: a technique of transient passage through varied ambiances.”  Situationists used “ambiance” to refer to the feeling or mood associated with a place, to its character, tone, or to the effect or appeal it might have; but they also used it to refer to the place itself, especially to the small, neighborhood-sized chunks of the city they called unités d’ambiance or unities of ambiance, parts of the city with an especially powerful urban atmosphere.  Denis Wood, [Lynch Debord: About Two Psychogeographies](http://krygier.owu.edu/krygier_html/geog_222/geog_222_lo/Lynch_Debord_Carto.45.3.003.pdf)
 
-In the map below, fragments of street maps ("unities of ambiance", hah.) 
+For example, the below map contains fragments of street maps ("unities of ambiance", hah.) cut to indicate each area's *defenses* and *exits*. The red arrows symbolize the psychogeographic slopes exerted on the city-surfing wanderers, pulling them from one urban universe to the next. 
 ![fig](https://mappingweirdstuff.files.wordpress.com/2009/06/debord-guide1.jpg)
-<sub>*Guy Debord, Guide Pychogéographique de Paris*</sub>
+<sub>*Guy Debord, Guide Psychogéographique de Paris*</sub>
 
-Most psychogeographic reports of dérive involve wandering a city by foot to acheive a heightened sense of emotional and spatial awareness. I believe that the bicycle, too, is a tool well-suited for the job. The bicycle enables us to experience and cataglogue a diverse variety of environments. This allows for the detection of emotionscapes not only from one urban block to the next, but in the transition between vastly different landscapes, from urban to rural, mountains to plains, deserts to coastlines.
+Most psychogeographic reports of dérive involve wandering a city by foot to acheive a heightened sense of emotional and spatial awareness. I believe that the bicycle, too, is a tool well-suited for the job. The bicycle enables us to experience and cataglogue a diverse variety of environments. This allows for the detection of fluctuating emotionscapes not only from one urban block to the next, but in the transition between vastly different landscapes, from urban to rural, mountains to plains, deserts to coastlines.
 
 More simply put, riding a bike is fun :)
 
