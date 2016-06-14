@@ -71,7 +71,7 @@ Planning a trip like this is a fun, iterative process involving tradeoffs around
 
 Below is my route as it currently stands. It will likely grow to include more attractions and special places over the coming weeks. You can toggle on and off the campgrounds and hostels that I identified along the route (open the sidebar and scroll down to do so). 
 
-<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480" align="middle"></iframe>
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480" align="middle"></iframe>  
 
 
 ## Go out and ride
