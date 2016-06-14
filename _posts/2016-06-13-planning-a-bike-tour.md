@@ -32,7 +32,9 @@ The physical environment impacts our internal environment, and vice versa. [Psyc
 
 > Most of us follow a small set of preprogrammed instructions as we wander through the city: office, day care, grocery store, home. If you track your own path through a typical day, you'll soon discover that your journey is habitual, that you're slowly wearing a canyon through the same streets, the same sidewalks, day after day. Psychogeography encourages us to buck the rut, to follow some new logic that lets us experience our landscape anew, that forces us to truly see what we'd otherwise ignore. Chance and randomness are what's exciting. - Joseph Hart, [A New Way of Walking](http://www.utne.com/community/a-new-way-of-walking.aspx)
 
-Psychogeography encapsulates a toolbox of playful strategies for exploring urban and natural environments. Principle of
+Psychogeography encapsulates a toolbox of playful strategies for exploring urban and natural environments. Principle of them is the ***Dérive*** (French for "drift"), which is defined [here](https://mappingweirdstuff.wordpress.com/2009/06/14/mapping-weird-stuff-psychogeography/) as an aimless, random drifting through a place, guided by whim and an awareness of how different spaces draw you in or repel you. Artist and cartographer Denis Wood defines it as:
+
+> Dérive: “A mode of experimental behavior linked to the condition of urban society: a technique of transient passage through varied ambiances.”  Situationists used “ambiance” to refer to the feeling or mood associated with a place, to its character, tone, or to the effect or appeal it might have; but they also used it to refer to the place itself, especially to the small, neighborhood-sized chunks of the city they called unités d’ambiance or unities of ambiance, parts of the city with an especially powerful urban atmosphere.  Wood “Lynch Debord: About Two Psychogeographies.”
 
 
 
