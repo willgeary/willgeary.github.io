@@ -42,7 +42,7 @@ For example, the below map contains fragments of street maps ("unities of ambian
 
 Most psychogeographic reports of dérive involve wandering a city by foot to acheive a heightened sense of emotional and spatial awareness. I believe that the bicycle, too, is a tool well-suited for the job. The bicycle enables us to experience and cataglogue a diverse variety of environments. This allows for the detection of fluctuating emotionscapes not only from one urban block to the next, but in the transition between vastly different landscapes, from urban to rural, mountains to plains, deserts to coastlines. It is a perhaps a practice nuanced enough to warrant its own term... ***Cycle-geography***, if you will :)
 
-*Why?* - you ask? Because riding a bike is fun!
+In summary: *Why*, you ask? Because riding a bike is fun!
 
 ## How?
 Now that you have the *Why* - let's move on to the *How*. 
