@@ -15,7 +15,7 @@ When I tell people that I actually *enjoy* going on long, multi-day bicycle ride
 
 Those who "get it" will share feelings of mutual excitement, respect and a special sympathy. These folks are typically hikers, runners, fellow cyclists, or other flavors of wandering souls who understand the appeal and psychic effects of self-powered adventuring through urban and natural geographies.
 
-Others will stare at me with a mix of admiration and disbelief. *You're biking how far?* they say, shaking their head. To the uninitiated, an orientation like mine implies a nearly superhuman endurance and a sadistic sense of pleasure. Or perhaps it suggests that you are struggling to recover from some personal affliction or tragedy. *You'll be just like Reese Witherspoon in [Wild](http://www.imdb.com/title/tt2305051/)!*
+Others will stare at me with a mix of admiration and disbelief. *You're biking how far?* they say, shaking their head. To the uninitiated, an orientation like mine implies a nearly superhuman endurance or a sadistic sense of pleasure. It might also suggest that you are struggling to recover from some personal affliction or tragedy. *You'll be just like Reese Witherspoon in [Wild](http://www.imdb.com/title/tt2305051/)!*
 
 Still others will simply ask *why?* As in, *why wouldn't you just drive there?*
 
