@@ -13,3 +13,8 @@ Salivating over the Astoria-Megler Bridge, which connects coastal Washington and
 ## Quiet Mind Times
 
 I 
+
+
+## Planning
+
+<iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
