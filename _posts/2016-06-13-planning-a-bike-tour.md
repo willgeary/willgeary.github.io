@@ -61,9 +61,11 @@ I use Google's [My Maps](https://www.google.com/maps/d/u/1/edit?authuser=1&mid=1
 [![fig](http://i.imgur.com/9GoFVx5.png)](https://www.google.com/maps/place/Conde+McCullough+Memorial+Bridge/@43.4287439,-124.2218959,15z/data=!4m2!3m1!1s0x0:0x7d49fb5d6889e331?sa=X&ved=0ahUKEwjUg5H-96fNAhWHHD4KHeh-CGUQ_BIIgAEwDw)
 <sub>*The Coos Bay Bridge. Kind of intense. North Bend, Oregon*</sub>
 
+Planning a trip like this is a fun, iterative process involving tradeoffs around every corner. For example, should I ride from Vancouver to Seattle through Bellingham? Or should I explore Vancouver Island and the San Juans? Or both? As you'll see below, I chose both and am looking forward to island-hopping from Vancouver to Seattle (no one said ferries are illegal!).
 
-It is an iterative process involving tradeoffs around every corner. For 
+Below is my route as it currently stands. It will likely grow to include more attractions and special places over the coming weeks. You can toggle on and off the campgrounds and hostels that I identified along the route (open the sidebar and scroll down to do so). 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
 
+As for actually riding this thing... stay tuned!
 
