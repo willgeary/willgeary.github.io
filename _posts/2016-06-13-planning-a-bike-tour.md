@@ -9,6 +9,10 @@ categories: biking
 
 <sub>*Deception Pass. Fidalgo Island, Washington.*</sub>
 
+*'Why?'*
+
+This is a question that I often hear when I tell 
+
 
 
 ## Quiet Mind Times
