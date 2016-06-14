@@ -74,4 +74,4 @@ Below is my route as it currently stands. It will likely grow to include more at
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
 
 ## Go out and ride
-As for actually riding this thing... stay tuned!
+As for actually riding this thing... stay tuned for more!
