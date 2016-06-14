@@ -25,10 +25,16 @@ When you spend good, long hours exploring the beauty of your surrounding environ
 
 It is easy to tune out. Life often requires us to focus on getting through places for practical reasons (getting to school, getting to work, etc), such that we overlook the experience of being in them. In a *Field Guide to Getting Lost*, Rebecca Solnit celebrates the value of the small wonders that many of us tend to ignore or hustle past without noticing at all. Part of the philosophy is no philosophy at all - rather a sense of wonder, an open mind, and the capacity to see and feel more than just what can be defined.
 
-> "When I walk, what happens is more vague, more ambiguous — and in many circumstances much richer. I am out in the world. It’s exercise, though not so quantifiably as on a treadmill in a gym with a digital readout. It’s myriad little epiphanies and encounters that knit me more tightly into my place and maybe enhance the place overall. The carbon emissions are essentially nil. Many more benefits are more subjective, more ethereal — and more wordy. You can’t describe them in a few familiar phrases; and if you’re not practiced at describing them, you may not be able to articulate them at all. It is difficult to value what cannot be named. Since someone makes money every time you buy a car or fill it up, there’s a whole commercial language built around getting us to drive; there’s little or no language promoting the free act of walking." - Rebecca Solnit
+> When I walk, what happens is more vague, more ambiguous — and in many circumstances much richer. I am out in the world. It’s exercise, though not so quantifiably as on a treadmill in a gym with a digital readout. It’s myriad little epiphanies and encounters that knit me more tightly into my place and maybe enhance the place overall. The carbon emissions are essentially nil. Many more benefits are more subjective, more ethereal — and more wordy. You can’t describe them in a few familiar phrases; and if you’re not practiced at describing them, you may not be able to articulate them at all. It is difficult to value what cannot be named. Since someone makes money every time you buy a car or fill it up, there’s a whole commercial language built around getting us to drive; there’s little or no language promoting the free act of walking. - Rebecca Solnit
 
 ## The Bicycle as a Psychogeographic Tool
-The physical environment impacts our internal environment, and vice versa. [Psychogeography](https://en.wikipedia.org/wiki/Psychogeography) is an approach to understanding the conscious and subconscious effects of the geographic environment on human emotions and behavior. It is a sort of pseudo-scientific, tongue-in-cheek approach to social geography that posits playful "drifting" around urban environments as method of sparking a new awareness of the built environment. Psychogeography originated in the 1950s by an avant-garde group of Parisian artists and theorists known as The [Letterist International](https://en.wikipedia.org/wiki/Letterist_International) who might be thought of as French counterparts of the American Beat Generation. There is even a conference in New York City dedicated to psychogeography called [Psy.Geo.Conflux](http://confluxfestival.org/schedule/), where artists, writers and urban theorists gather to e
+The physical environment impacts our internal environment, and vice versa. [Psychogeography](https://en.wikipedia.org/wiki/Psychogeography) is an approach to understanding the conscious and subconscious effects of the geographic environment on human emotions and behavior. It is a sort of pseudo-scientific, tongue-in-cheek approach to social geography that posits playful "drifting" around urban environments as method of sparking a new awareness of the built environment. Psychogeography originated in the 1950s by an avant-garde group of Parisian artists and theorists known as The [Letterist International](https://en.wikipedia.org/wiki/Letterist_International) who might be thought of as French counterparts of the American Beat Generation. An interest in this field continues to persist in some form. There is even a conference in New York City dedicated to psychogeography called [Psy.Geo.Conflux](http://confluxfestival.org/schedule/).
+
+> Most of us follow a small set of preprogrammed instructions as we wander through the city: office, day care, grocery store, home. If you track your own path through a typical day, you'll soon discover that your journey is habitual, that you're slowly wearing a canyon through the same streets, the same sidewalks, day after day. Psychogeography encourages us to buck the rut, to follow some new logic that lets us experience our landscape anew, that forces us to truly see what we'd otherwise ignore. Chance and randomness are what's exciting. - Joseph Hart, [A New Way of Walking](http://www.utne.com/community/a-new-way-of-walking.aspx)
+
+Psychogeography encapsulates a toolbox of playful strategies for exploring urban and natural environments. Principle of
+
+
 
 
 
@@ -37,15 +43,3 @@ The physical environment impacts our internal environment, and vice versa. [Psyc
 ## Planning
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
-
-
-
-
-
-
-
-
-
-
-
-
