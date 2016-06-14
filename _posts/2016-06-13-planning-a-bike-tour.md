@@ -56,6 +56,14 @@ Some of my favorite sources range from the institutional [Adventure Cycling Asso
 What happens next is a fervent mix of theft and creation. I steal what I like - trails, campgrounds, hot springs, hostels, burger joints, dive bars, beaches, bridges, ferries, cities, towns, short cuts, long cuts - and combine them with some new ideas of my own to create a unique hodgepodge of psychogeographic delight.
 
 ## Planning the Route
-I use 
+I use Google's [My Maps](https://www.google.com/maps/d/u/1/edit?authuser=1&mid=1eWl1AD12rUCBLT9lqpbHXLSc8LI) to plan the route and save points of interest like campgrounds and cheap lodging options, and regular old Google Maps (yes, they are separate but related products) to easily compare and preview alternate routes. The Street View functionality is particularly helpful because it can give you a sense for whether or not a particular section of the route is something that you want to bike. For example, the Coos Bay Bridge in North Bend, Oregon was not designed with human-powered travellers in mind and may be too intense for some bikers. But not to worry, there is a [well-documented route](https://www.crazyguyonabike.com/doc/?doc_id=12467) for those who would prefer to avoid this bridge.
+
+[![fig](http://i.imgur.com/9GoFVx5.png)](https://www.google.com/maps/place/Conde+McCullough+Memorial+Bridge/@43.4287439,-124.2218959,15z/data=!4m2!3m1!1s0x0:0x7d49fb5d6889e331?sa=X&ved=0ahUKEwjUg5H-96fNAhWHHD4KHeh-CGUQ_BIIgAEwDw)
+<sub>*The Coos Bay Bridge. Kind of intense. North Bend, Oregon*</sub>
+
+
+It is an iterative process involving tradeoffs around every corner. For 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480"></iframe>
+
+
