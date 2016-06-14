@@ -8,7 +8,7 @@ title: Planning a Bike Tour
 
 ![fig](http://i.imgur.com/ircqmIm.png)
 
-<sub>*Salivating on Google Maps. [Deception Pass, Fidalgo Island, Washington](https://goo.gl/maps/qyHwe93xyzT2).*</sub>
+<sub>*Salivating on Google Maps. [Deception Pass. Fidalgo Island, Washington](https://goo.gl/maps/qyHwe93xyzT2).*</sub>
 
 ## Why?
 When I tell people that I actually *enjoy* going on long, multi-day bicycle rides, I encounter a diverse range of responses. 
