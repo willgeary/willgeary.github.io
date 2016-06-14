@@ -23,7 +23,9 @@ Well, there are several reasons.
 ## Quiet Mind Times
 When you spend good, long hours exploring the beauty of your surrounding environment, looking at seemingly endless terrain, conversing with companions of the road, or reflecting on the universe and your purpose in it, you become attuned to your inner self. These periods of introspection, which I like to call *quiet mind times*, are needed by all people but seemingly enjoyed by only few. 
 
-It is easy to tune out. Life often requires us to focus on getting through places for practical reasons (getting to school, getting to work, etc), such that we overlook the experience of being in them. In a *Field Guide to Getting Lost*, Rebecca Solnit celebrates the value of the small wonders 
+It is easy to tune out. Life often requires us to focus on getting through places for practical reasons (getting to school, getting to work, etc), such that we overlook the experience of being in them. In a *Field Guide to Getting Lost*, Rebecca Solnit celebrates the value of the small wonders that many of us tend to ignore or hustle past without noticing at all. Part of the philosophy is no philosophy at all - rather a sense of wonder, an open mind, and the capacity to see and feel more than just what can be defined.
+
+
 
 
 I enjoy reading about 
