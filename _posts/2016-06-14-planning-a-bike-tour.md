@@ -69,7 +69,7 @@ Planning a trip like this is a fun, iterative process involving tradeoffs around
 [![fig](http://i.imgur.com/F6hjKxO.png)](https://www.google.com/maps/@36.2740008,-121.8468033,3a,75y,192.69h,82.93t/data=!3m6!1e1!3m4!1s8mbD_aNYmaKjuWf3_VMYhQ!2e0!7i13312!8i6656)
 <sub>*Bluffs Trail, Andrew Molera State Park. Big Sur, California.*</sub>
 
-Below is my route as it currently stands. It will likely grow to include more attractions and special places over the coming weeks. You can toggle on and off the campgrounds and hostels that I identified along the route (open the sidebar and scroll down to do so). 
+Below is my route as it currently stands. It will likely grow to include more attractions and special places over the coming weeks. You can toggle on and off the campgrounds and other attractions that I have identified along the route (open the sidebar and scroll down to do so). 
 
 <iframe src="https://www.google.com/maps/d/u/1/embed?mid=1ELysbd_HcyENvsuK5auBFbFpwZ0" width="640" height="480" align="middle"></iframe>
 <br>
