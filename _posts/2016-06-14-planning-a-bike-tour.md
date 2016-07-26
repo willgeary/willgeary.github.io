@@ -76,3 +76,5 @@ Below is my route as it currently stands. It will likely grow to include more at
 
 ## Go out and ride
 As for actually riding this thing... stay tuned for more!
+
+<script src='http://trackmytour.com/static/embed/tmt.js'></script><a href='http://trackmytour.com/TJQt' class='iframe trackmytour'>Click here to TrackMyTour!</a>
