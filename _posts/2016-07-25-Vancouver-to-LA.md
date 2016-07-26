@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+date: '2016-06-14 07:15:14 -0400'
+categories: biking
 ---
 ## I'm Currently Riding Down the Pacific Coast - Follow Along!
 
