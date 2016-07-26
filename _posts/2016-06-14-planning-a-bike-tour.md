@@ -78,3 +78,16 @@ Below is my route as it currently stands. It will likely grow to include more at
 As for actually riding this thing... stay tuned for more!
 
 <script src='http://trackmytour.com/static/embed/tmt.js'></script><a href='http://trackmytour.com/TJQt' class='iframe trackmytour'>Click here to TrackMyTour!</a>
+
+<script src='http://trackmytour.com/static/embed/tmt.js'></script><a href='http://tmt.li/TJQt' class='iframe trackmytour'>Click here to TrackMyTour!</a>
+
+
+<iframe src="http://trackmytour.com/static/embed/tmt.js" width="640" height="480" align="middle"></iframe>
+<br>
+
+
+<iframe src="http://tmt.li/TJQt" width="640" height="480" align="middle"></iframe>
+<br>
+
+<iframe src="http://trackmytour.com/static/embed/tmt.js" href='http://tmt.li/TJQt' width="640" height="480" align="middle"></iframe>
+<br>
