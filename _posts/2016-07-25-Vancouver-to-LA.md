@@ -1,8 +1,9 @@
 ---
 published: true
 layout: post
-date: '2016-06-14 07:15:14 -0400'
+date: '2016-07-25 07:15:14 -0400'
 categories: biking
+title: Vancouver to Los Angeles
 ---
 ![fig](http://i.imgur.com/r6PIoEA.jpg)
 
