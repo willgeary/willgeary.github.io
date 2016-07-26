@@ -89,5 +89,5 @@ As for actually riding this thing... stay tuned for more!
 <iframe src="http://tmt.li/TJQt" width="640" height="480" align="middle"></iframe>
 <br>
 
-<iframe src="http://trackmytour.com/static/embed/tmt.js" href='http://tmt.li/TJQt' width="640" height="480" align="middle"></iframe>
+<iframe src="https://trackmytour.com/TJQt0" width="640" height="480" align="middle"></iframe>
 <br>
