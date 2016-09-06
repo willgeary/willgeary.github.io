@@ -14,5 +14,5 @@ During July and August of 2016 I rode my bicycle down the pacific coast, from Va
 <script src='//trackmytour.com/static/embed/tmt.js'></script><a href='//trackmytour.com/TJQt0' class='iframe trackmytour'>Click here to open pop-up window.</a>
 
 
-<iframe src="https://trackmytour.com/TJQt0" width="800" height="800" align="middle"></iframe>
+<iframe src="https://trackmytour.com/TJQt0" width="900" height="800" align="middle"></iframe>
 <br>
