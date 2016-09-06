@@ -12,5 +12,5 @@ title: Vancouver to Los Angeles
 During July and August of 2016 I rode my bicycle down the pacific coast, from Vancouver to Los Angeles. Check out my trip log and route map below:
 
 
-<iframe src="https://trackmytour.com/TJQt0" width="800" height="480" align="middle"></iframe>
+<iframe src="https://trackmytour.com/TJQt0" width="740" height="480" align="middle"></iframe>
 <br>
