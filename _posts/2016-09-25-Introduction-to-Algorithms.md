@@ -1,3 +1,10 @@
+---
+published: true
+layout: post
+date: '2016-09-25 07:15:14 -0400'
+categories: data
+title: Introduction to Algorithms
+---
 
 CSOR W4246 – Fall, 2016 $\\$
 
