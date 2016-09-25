@@ -10,7 +10,7 @@ CSOR W4246 – Fall, 2016 $\\$
 
 Will Geary (wcg2111)
 
-*Note: all code and pseudocode below uses zero-based indexing.*
+*Note: All code and pseudocode below uses zero-based indexing.*
 
 # Problem 1
 *(10 points) You are given a sorted array A of n integers. The length of the array is n but you
@@ -323,5 +323,3 @@ $n^{log\ n}$       | $2^n$                 | Yes  | Yes | No        | No       |
 $2^n$              | $\frac{3^n}{n^{log\ n}}$| Yes | Yes  | No       | No      | No
 $n^n$              | $n!$                  | No   | No  | Yes       | Yes      | No
 $log\ n^n$         | $log\ n!$             | Yes  | No  | Yes       | No       | Yes
-
-
