@@ -16,7 +16,7 @@ Will Geary (wcg2111)
 *(10 points) You are given a sorted array A of n integers. The length of the array is n but you
 are not given the value of n; an attempt to access element A[i] with i > n returns the error
 message ∞. Describe an algorithm that takes an integer x as input and finds a position in the array
-containing x, if such a position exists, in $O(log\ n)$ time.* $\\$
+containing x, if such a position exists, in $$O(log\ n)$$ time.* $$\\$$
 
 We can't use the straightforward binary search algorithm to solve this problem because we don't know the length $n$ of the array to provide an upper boundary to the search. However, it is still possible to find the position $i$ in array $A$ such that $A[i] = x$ in $O(log\ n)$ time because the array is sorted.
 
