@@ -18,16 +18,7 @@ Full pdf available here. Don't ask how I found it :) https://github.com/willgear
 
 As you can see below, the pdf is not in the best condition.
 
-
-```python
-from IPython.display import Image
-%matplotlib inline
-```
-
-
-```python
-Image("https://raw.githubusercontent.com/willgeary/janejacobs/master/Images/Cover.png")
-```
+![fig]("https://raw.githubusercontent.com/willgeary/janejacobs/master/Images/Cover.png")
 
 
 
