@@ -5,9 +5,6 @@ date: '2016-10-08 07:15:14 -0400'
 categories: data
 title: Mapping Jane Jacobs
 ---
-
-# Mapping the Places in *The Death and Life of Great American Cities*
-
 Will Geary
 
 <iframe width="100%" height="520" frameborder="0" src="https://willgeary.carto.com/viz/31c6b2d0-8db4-11e6-ab40-0ef7f98ade21/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
