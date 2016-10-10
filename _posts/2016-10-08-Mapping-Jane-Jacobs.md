@@ -3,7 +3,7 @@ published: true
 layout: post
 date: '2016-10-08 07:15:14 -0400'
 categories: data
-title: Mapping Jane Jacobs' Cities
+title: Mapping Jane Jacobs
 ---
 
 # Mapping the Places in *The Death and Life of Great American Cities*
