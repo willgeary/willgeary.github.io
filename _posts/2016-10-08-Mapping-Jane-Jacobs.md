@@ -29,27 +29,20 @@ A quick overview of my steps...
 
 ### Parse text for locations
 
-Use the **geotext** library to extract country and cities from the text. More info on geotext here: https://pypi.python.org/pypi/geotext
+Use the [**geotext**](https://pypi.python.org/pypi/geotext) library to extract country and cities from the text.
 
 
 ```python
 from geotext import GeoText
-```
-
-
-```python
 places = GeoText(s)
+places.cities[:10]
+
 ```
 
 Look below at a few of the cities found using this tool. Clearly, there are some mistakes (Mary and Nelson are names, not places) but some cities are correctly identified (Chicago, Philadelphia). Let's ignore this problem for now and come back to it later.
 
 
 ```python
-places.cities[:10]
-```
-
-
-
 
     [u'YORK',
      u'Mary',
@@ -61,6 +54,7 @@ places.cities[:10]
      u'Chicago',
      u'York',
      u'Philadelphia']
+```
 
 
 ### Use Google Maps API to pull lat/lon coordinates 
@@ -80,7 +74,9 @@ for city in places.cities:
         lon = geocode_result[0]['geometry']['location']['lng']
         coords[city] = ((lat,lon))
 ```
+Checking that it works correctly for Boston:
 
+![fig](https://raw.githubusercontent.com/willgeary/janejacobs/master/Images/Boston.png)
 
 
 ### Map it
