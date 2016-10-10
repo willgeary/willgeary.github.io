@@ -14,17 +14,17 @@ Will Geary
 
 I used optical character recognition to convert a pdf into text, named entity recognition algorithm to parse the text for places, Google Maps' geocoding API to pull latitude / longitude coordinates and Carto to map everything. All of code is available [here](http://nbviewer.jupyter.org/github/willgeary/janejacobs/blob/master/Notebook.ipynb).
 
-A quick overview of my steps
+A quick overview of my steps...
 
 ### Find the pdf
 
-![fig]("https://raw.githubusercontent.com/willgeary/janejacobs/master/Images/Cover.png")
+![fig](https://raw.githubusercontent.com/willgeary/janejacobs/master/Images/Cover.png)
 
 
 ### Convert pdf to text
 
 
-![fig]("https://raw.githubusercontent.com/willgeary/janejacobs/master/Images/screencast.gif")
+![fig](https://raw.githubusercontent.com/willgeary/janejacobs/master/Images/screencast.gif)
 
 
 ### Parse text for locations
@@ -66,74 +66,25 @@ places.cities[:10]
 ### Use Google Maps API to pull lat/lon coordinates 
 
 
-Create a table of each city and its latitude / longitude coordinates.
+```python
+coords = {}
 
-
-<div>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>Latitude</th>
-      <th>Longitude</th>
-      <th>Frequency</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>ALVIN</th>
-      <td>29.423847</td>
-      <td>-95.244101</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <th>AMI</th>
-      <td>36.030795</td>
-      <td>140.214786</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <th>ATH</th>
-      <td>52.991834</td>
-      <td>-6.985728</td>
-      <td>18</td>
-    </tr>
-    <tr>
-      <th>Along</th>
-      <td>28.162784</td>
-      <td>94.805414</td>
-      <td>6</td>
-    </tr>
-    <tr>
-      <th>Baltimore</th>
-      <td>39.290385</td>
-      <td>-76.612189</td>
-      <td>14</td>
-    </tr>
-  </tbody>
-</table>
-</div>
+for city in places.cities:
+    geocode_result = gmaps.geocode(city)
+    
+    # if google maps request doesn't return any data, don't do anything
+    if len(geocode_result) == 0:
+        pass
+    else:
+        lat = geocode_result[0]['geometry']['location']['lat']
+        lon = geocode_result[0]['geometry']['location']['lng']
+        coords[city] = ((lat,lon))
+```
 
 
 
 ### Map it
 
-I mapped the cities using Carto. The size of the bubbles represents the number of times that each city is mentioned in the text.
+I mapped the cities using [Carto](https://willgeary.carto.com/viz/31c6b2d0-8db4-11e6-ab40-0ef7f98ade21/public_map). The size of the bubbles represents the number of times that each city is mentioned in the text.
 
-
-```python
-from IPython.display import IFrame
-IFrame("https://willgeary.carto.com/viz/31c6b2d0-8db4-11e6-ab40-0ef7f98ade21/embed_map", 800, 500)
-```
-
-
-
-
-
-        <iframe
-            width="800"
-            height="500"
-            src="https://willgeary.carto.com/viz/31c6b2d0-8db4-11e6-ab40-0ef7f98ade21/embed_map"
-            frameborder="0"
-            allowfullscreen
-        ></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://willgeary.carto.com/viz/31c6b2d0-8db4-11e6-ab40-0ef7f98ade21/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
