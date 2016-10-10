@@ -10,9 +10,7 @@ title: Mapping Jane Jacobs' Cities
 
 Will Geary
 
-<iframe src="https://willgeary.carto.com/viz/31c6b2d0-8db4-11e6-ab40-0ef7f98ade21/embed_map" style="width:100%;height:500px;"></iframe>
-<br>
-
+<iframe width="100%" height="520" frameborder="0" src="https://willgeary.carto.com/viz/31c6b2d0-8db4-11e6-ab40-0ef7f98ade21/embed_map" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 *The Death and Life of Great American Cities* is a critique of 1950s urban planning dogma. It was written in 1961 by journalist-activist Jane Jacobs when she was living in Manhattan's Greenwich Village. In the text, Jacobs compares and contrasts many different cities. The book had a tremendous impact on me when I first read it, so I thought it would be fun to make a map of every place mentioned in the book.
 
