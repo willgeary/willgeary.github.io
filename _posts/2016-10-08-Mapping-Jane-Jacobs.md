@@ -31,14 +31,13 @@ Use the [**geotext**](https://pypi.python.org/pypi/geotext) library to extract c
 ```python
 from geotext import GeoText
 places = GeoText(s)
-places.cities[:10]
-
 ```
 
 Look below at a few of the cities found using this tool. Clearly, there are some mistakes (Mary and Nelson are names, not places) but some cities are correctly identified (Chicago, Philadelphia). Let's ignore this problem for now and come back to it later.
 
 
 ```python
+places.cities[:10]
 
     [u'YORK',
      u'Mary',
