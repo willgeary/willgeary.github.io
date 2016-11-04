@@ -4,21 +4,11 @@ layout: post
 date: '2016-11-04 07:15:14 -0400'
 categories: data
 ---
-I used optical character recognition to convert a pdf into text, named entity recognition algorithm to parse the text for places, Google Maps' geocoding API to pull latitude / longitude coordinates and Carto to map everything. All of code is available [here](http://nbviewer.jupyter.org/github/willgeary/janejacobs/blob/master/Notebook.ipynb).
-
-A quick overview of my steps...
-
-### Find the pdf
-
-![fig](https://raw.githubusercontent.com/willgeary/janejacobs/master/Images/Cover.png)
-
 ![address to lat lon](http://i.imgur.com/nm55glO.gif)
 
 # Geocoding with Google Sheets Tutorial
 
-You can geocode addresses to lat lon coordinates and vice versa using google sheets and a custom googlescript. This can be useful when you are collaborating on datasets and want a quick way to generate coordinates for a map. This tutorial will walk you through the steps necessary for doing something like this:
-
-![address to lat lon](http://i.imgur.com/nm55glO.gif)
+You can geocode addresses to lat lon coordinates and vice versa using google sheets and a custom googlescript. This can be useful when you are collaborating on datasets and want a quick way to generate coordinates for a map. This tutorial will walk you through the steps necessary for setting up a custom googlescript in google sheets and executing the geocoding functionality.
 
 # 1. Get the geocoding macro google script source code
 
@@ -181,19 +171,24 @@ function onOpen() {
 Paste the entire section of code into the google script editor, replacing the starter code that was originally there. Click the save button to save this script in your google sheet.
 ![](https://i.imgur.com/WTRXTE0.png)
 
-# 4. Refresh your google sheet. You may need to close out and re-open
+# 4. Refresh your google sheet
+
+You may need to close out entirely and re-open the sheet.
 
 
 # 5. A new tab called 'Geocode' should appear in your menu
 
 It it doesn't appear, try closing out of the google sheet and reopening it.
+
 ![](https://i.imgur.com/AGO85q2.png)
 
-# Now you can do magic
+# *Now you can do magic*
+
 
 # 6. Select column of addresses and two columns to the right of them
 
 This tells the Geocode macro where your addresses exist and where the lat/lon coordiates should be output.
+
 ![](https://i.imgur.com/VtHTXUL.png)
 
 # 7. Navigate to Geocode -> Geocode Selected Cells (Address to Lat, Long)
