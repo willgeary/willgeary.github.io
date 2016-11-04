@@ -25,7 +25,6 @@ You can geocode addresses to lat lon coordinates and vice versa using google she
 We will use the source code found [here](https://github.com/nuket/google-sheets-geocoding-macro/blob/master/Code.gs). Copy the entire chunk of google script code below. 
 
 ```javascipt
-```{eval = FALSE}
 
 function getGeocodingRegion() {
   return PropertiesService.getDocumentProperties().getProperty('GEOCODING_REGION') || 'us';
@@ -172,25 +171,28 @@ function onOpen() {
   //   .createMenu();
 };
 ```
-```
 
 # 2. Open Tools -> Script Editor in new google sheet
 
 ![](https://i.imgur.com/nkQisew.png)
 
 # 3. Paste the above code into the script
+
 Paste the entire section of code into the google script editor, replacing the starter code that was originally there. Click the save button to save this script in your google sheet.
 ![](https://i.imgur.com/WTRXTE0.png)
 
 # 4. Refresh your google sheet. You may need to close out and re-open
 
+
 # 5. A new tab called 'Geocode' should appear in your menu
+
 It it doesn't appear, try closing out of the google sheet and reopening it.
 ![](https://i.imgur.com/AGO85q2.png)
 
 # Now you can do magic
 
 # 6. Select column of addresses and two columns to the right of them
+
 This tells the Geocode macro where your addresses exist and where the lat/lon coordiates should be output.
 ![](https://i.imgur.com/VtHTXUL.png)
 
