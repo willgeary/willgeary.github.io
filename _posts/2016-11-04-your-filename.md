@@ -24,6 +24,7 @@ You can geocode addresses to lat lon coordinates and vice versa using google she
 
 We will use the source code found [here](https://github.com/nuket/google-sheets-geocoding-macro/blob/master/Code.gs). Copy the entire chunk of google script code below. 
 
+```javascipt
 ```{eval = FALSE}
 
 function getGeocodingRegion() {
@@ -170,6 +171,7 @@ function onOpen() {
   // SpreadsheetApp.getUi()
   //   .createMenu();
 };
+```
 ```
 
 # 2. Open Tools -> Script Editor in new google sheet
