@@ -205,6 +205,6 @@ This tells the Geocode macro where your addresses exist and where the lat/lon co
 
 Thanks for reading! I hope this is helpful.
 
-Will Geary
+[@wgeary](https://twitter.com/wgeary)
 
 
