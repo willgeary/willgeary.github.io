@@ -9,3 +9,5 @@ categories: data
 This map was visualized using Carto. Decible records collected using [WideNoise app](http://cs.everyaware.eu/event/widenoise/) and processed with python (pandas). 
 
 Python notebook available [here](http://nbviewer.jupyter.org/github/willgeary/SoundMappingBikeCommute/blob/master/Sound%20Mapping.ipynb).
+
+<iframe src="https://github.com/willgeary/willgeary.github.io/blob/master/3dmap/index.html"></iframe>
