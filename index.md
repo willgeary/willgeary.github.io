@@ -7,4 +7,4 @@ Hello, my name is Will. I'm currently pursuing an [M.S. in Data Science](http://
 
 Feel free to read more [about me](about), follow my [bicycle adventures](/bikes) and [data projects](data), or reach out!
 
-<iframe src="https://player.vimeo.com/video/194378581?title=0&portrait=0" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/194378581?title=0&portrait=0" style="width:100%;height:500px;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
