@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2016-12-06 07:15:14 -0400'
 categories: data
+title: Visualizing Citibike Activity
 ---
 <iframe src="https://player.vimeo.com/video/193959567?portrait=0" width="640" height="640" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
