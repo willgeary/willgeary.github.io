@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-Hello, my name is Will. I'm currently pursuing an [m.s. in data science](http://datascience.columbia.edu/master-of-science-in-data-science) at Columbia University, studying machine learning, data visualization and advanced statistical theory. I'm a transportation nerd with a love for maps and data.
+Hello, my name is Will. I'm currently pursuing an [M.S. in Data Science](http://datascience.columbia.edu/master-of-science-in-data-science) at Columbia University, studying machine learning, data visualization and advanced statistical theory. I'm a transportation nerd with a love for maps and data.
 
 Feel free to read more [about me](about), follow my [bicycle adventures](/bikes) and [data projects](data), or reach out!
 
