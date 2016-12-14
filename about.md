@@ -2,11 +2,11 @@
 layout: page
 title: About
 permalink: /about/
-published: false
+published: true
 ---
-My passion is to use data to solve real world problems. I'm currently pursuing a [master's degree in data science](http://datascience.columbia.edu/master-of-science-in-data-science) at Columbia University. I'm passionate about sustainability and mobility in cities of the future. Urban planning and transportation are becoming increasingly data-driven, and I'm eager to be a part of this movement!
+My passion is to use data to solve real world problems. I'm currently pursuing a [master's degree in data science](http://datascience.columbia.edu/master-of-science-in-data-science) at Columbia University. I'm passionate about sustainability and mobility in cities of the future.
 
-I ride my bicycle every day and dream about biking, hiking and camping my way around the world. I love cities and have a [street photography habit](https://www.instagram.com/willcgeary/).
+I ride my bicycle every day and dream about biking, hiking and camping my way around the world. During the July and August of 2016, I rode by bike from [Vancouver to Los Angeles](http://willgeary.github.io/biking/2016/07/25/Vancouver-to-LA.html). I love cities and have a [street photography habit](https://www.instagram.com/willcgeary/).
 
 ![Me and my baby]({{ site.url }}/assets/bike_will.jpg)
 <sub>*A nerd and his bike. Photo by [James Ransom](http://www.jamesransom.com/).*</sub>
