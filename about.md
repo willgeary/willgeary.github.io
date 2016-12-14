@@ -12,7 +12,7 @@ I ride my bicycle every day and dream about biking, hiking and camping my way ar
 <sub>*A nerd and his bike. Photo by [James Ransom](http://www.jamesransom.com/).*</sub>
 
 #### Professional Experience
-* **Company Partnerships** at [*Venture for America*](http://ventureforamerica.org/), a national economic development organization revitalizing American cities through entrepreneurship. My job is to identify and build partnerships with early-stage startups and key stakeholders in cities across the U.S.
+* **Company Partnerships** at [***Venture for America***](http://ventureforamerica.org/), a national economic development organization revitalizing American cities through entrepreneurship. My job is to identify and build partnerships with early-stage startups and key stakeholders in cities across the U.S.
 
 * **Finance & Strategy Lead** at [*Food52*](http://food52.com/), a venture-backed startup in New York getting people excited about cooking. I built a business analytics framework, created a five-year financial model and raised a $750k bank line of credit and [$6 million in venture capital](http://techcrunch.com/2014/09/30/food52-series-a-1/).
 
