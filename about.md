@@ -2,7 +2,7 @@
 layout: page
 title: About
 permalink: /about/
-published: true
+published: false
 ---
 My passion is to use data to solve real world problems. I'm currently pursuing a [master's degree in data science](http://datascience.columbia.edu/master-of-science-in-data-science) at Columbia University. I'm passionate about sustainability and mobility in cities of the future. Urban planning and transportation are becoming increasingly data-driven, and I'm eager to be a part of this movement!
 
