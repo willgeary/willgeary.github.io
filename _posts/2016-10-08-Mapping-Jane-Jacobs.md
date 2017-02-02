@@ -8,6 +8,10 @@ title: Mapping Jane Jacobs
 
 <iframe width="100%" height="520" frameborder="0" src="https://willgeary.carto.com/viz/31c6b2d0-8db4-11e6-ab40-0ef7f98ade21/embed_map?zoom=4&center_lat=40&center_lon=-100" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
+
+<iframe width="100%" height="520" frameborder="0" src="https://willgeary.github.io/visualizingNetworks/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+
+
 I used optical character recognition to convert a pdf into text, named entity recognition algorithm to parse the text for places, Google Maps' geocoding API to pull latitude / longitude coordinates and Carto to map everything. All of code is available [here](http://nbviewer.jupyter.org/github/willgeary/janejacobs/blob/master/Notebook.ipynb).
 
 A quick overview of my steps...
