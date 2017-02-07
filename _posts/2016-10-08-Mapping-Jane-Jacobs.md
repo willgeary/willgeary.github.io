@@ -10,9 +10,6 @@ title: Mapping Jane Jacobs
 
 
 
-<iframe src="http://timemapper.okfnlabs.org/adamrabinowitz/archaeowinetimeliner?embed=1" frameborder="0" style="border: none;" width="100%" height="780;"></iframe>
-
-
 I used optical character recognition to convert a pdf into text, named entity recognition algorithm to parse the text for places, Google Maps' geocoding API to pull latitude / longitude coordinates and Carto to map everything. All of code is available [here](http://nbviewer.jupyter.org/github/willgeary/janejacobs/blob/master/Notebook.ipynb).
 
 A quick overview of my steps...
