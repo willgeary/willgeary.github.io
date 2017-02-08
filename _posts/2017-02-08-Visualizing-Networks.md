@@ -4,7 +4,7 @@ layout: post
 date: '2017-02-07 04:15:14 -0400'
 categories: data
 ---
-<iframe width="100%" height="680" frameborder="0" src="https://willgeary.github.io/visualizingNetworks/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://willgeary.github.io/visualizingNetworks/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### Interactive Network Visualization Using R
 
