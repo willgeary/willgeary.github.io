@@ -5,7 +5,7 @@ date: '2017-02-15 04:15:14 -0400'
 categories: data
 title: Los Angeles Metro in Real Time
 ---
-<iframe width="100%" height="600" frameborder="0" src="https://willgeary.github.io/LosAngelesMetro/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="700" frameborder="0" src="https://willgeary.github.io/LosAngelesMetro/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ### Real-time map of the LA Metro system
 
