@@ -10,3 +10,7 @@ title: Los Angeles Metro in Real Time
 ### Real-time map of the LA Metro system
 
 Made using this excellent tutorial here: https://courses.planetizen.com/course/building-transit-map-app
+
+
+
+<iframe width='100%' height='520' frameborder='0' src='http://bl.ocks.org/anonymous/raw/d7306cb4fed3e7e3e9ed7f5dec83a167' allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
