@@ -13,4 +13,4 @@ Made using this excellent tutorial here: https://courses.planetizen.com/course/b
 
 
 
-<iframe width="100%" height="520" frameborder="0" src="https://github.com/willgeary/StoryMappingWithOdysseyJS" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<iframe width="100%" height="520" frameborder="0" src="https://willgeary.github.io/StoryMappingWithOdysseyJS/" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
