@@ -12,6 +12,9 @@ I ride my bicycle every day and dream about biking, hiking and camping my way ar
 <sub>*A nerd and his bike. Photo by [James Ransom](http://www.jamesransom.com/).*</sub>
 
 #### Professional Experience
+* **Graduate Research Assistant** at Columbia University's Civil Engineering Department. I am working with Dr. Sharon Di and others to examine mobility patterns in New York City.
+
+
 * **Graduate Teaching Assistant** at the [***Center for Spatial Research***](http://c4sr.columbia.edu/) at Columbia University. I teach Humanities PhD students about the joys of GIS and open-source data tools.
 
 
