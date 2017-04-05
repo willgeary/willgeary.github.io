@@ -1,7 +1,7 @@
 ---
 published: false
 layout: post
-date: '2017-04-05 04:15:14 -0400'
+date: '2017-04-04 04:15:14 -0400'
 categories: data
 title: 24 Hours of Bus and Taxi Trips in NYC
 ---
