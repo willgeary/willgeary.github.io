@@ -6,7 +6,9 @@ categories: data
 ---
 <iframe src="https://player.vimeo.com/video/212484620?byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
--------
+<br><br>
+
+<br><br>
 
 **Data sources:**
 
@@ -24,6 +26,7 @@ categories: data
 
 7) [NY Waterways Ferries](https://github.com/BetaNYC/NY-Waterways-GTFS-data)
 
+<br><br>
 
 **Methodology:**
 
