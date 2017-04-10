@@ -8,8 +8,6 @@ categories: data
 
 <br><br>
 
-<br><br>
-
 **Data sources:**
 
 1) [Taxi trips](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
@@ -26,7 +24,6 @@ categories: data
 
 7) [NY Waterways Ferries](https://github.com/BetaNYC/NY-Waterways-GTFS-data)
 
-<br><br>
 
 **Methodology:**
 
