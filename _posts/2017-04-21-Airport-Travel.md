@@ -1,5 +1,8 @@
 ---
-published: false
+published: true
+layout: post
+date: '2017-04-20 04:15:14 -0400'
+categories: data
 ---
 <iframe src="https://player.vimeo.com/video/214211168?title=0&byline=0&portrait=0" width="640%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
