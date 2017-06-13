@@ -3,8 +3,9 @@ published: true
 layout: post
 date: '2017-06-12 01:15:14 -0400'
 categories: data
+title: Mapping GPS Track in 3D
 ---
-<iframe src="https://willgeary.github.io/CesiumApps/Apps/Strava" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://willgeary.github.io/CesiumApps/Apps/Strava" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <br><br>
 
