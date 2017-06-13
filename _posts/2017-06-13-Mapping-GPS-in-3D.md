@@ -11,4 +11,4 @@ title: Mapping GPS Track in 3D
 
 Visualizing GPS data collected with Strava on a 3D map using CesiumJS.
 
-See my jupyter notebook with all the code here: https://willgeary.github.io/GPXto3D/
+See my jupyter notebook with all the code here: [https://willgeary.github.io/GPXto3D/](https://willgeary.github.io/GPXto3D/)
