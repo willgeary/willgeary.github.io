@@ -8,6 +8,8 @@ categories: data
 
 <br><br>
 
+This project was mentioned in Visualising Data's [Best Data Visualizations of April 2017](http://www.visualisingdata.com/2017/06/best-visualisation-web-april-2017/)!
+
 **Data sources:**
 
 1) [Taxi trips](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
