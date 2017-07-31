@@ -5,9 +5,7 @@ date: '2017-06-12 01:15:14 -0400'
 categories: data
 title: Mapping GPS Track in 3D
 ---
-![]({{site.baseurl}}/_posts/woodstock.png)![woodstock.png]({{site.baseurl}}/_posts/woodstock.png)
-
-
+![fig]({{ site.url }}/assets/woodstock.png)
 
 <br><br>
 
