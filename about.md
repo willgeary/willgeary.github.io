@@ -5,5 +5,5 @@ permalink: /about/
 published: true
 ---
 
-![fig](https://www.citylab.com/transportation/2017/09/visualize-transit-frequency-nearly-anywhere-in-the-world/538725/)
+[![fig](http://imgur.com/a/px8GH)](https://www.citylab.com/transportation/2017/09/visualize-transit-frequency-nearly-anywhere-in-the-world/538725/)
 
