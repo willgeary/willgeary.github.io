@@ -10,12 +10,6 @@ title: >-
 ---
 ![table_happy.png]({{site.baseurl}}/_posts/table_happy.png)
 
-![fig]({{ site.url }}/assets/table_happy.png)
-
-![fig]({{ site.url }}/assets/woodstock.png)
-
-
-
 # TransitFlow — using Python and Processing to visualize regional transit frequency
 
 Urban planner [Jarrett Walker](http://humantransit.org/2015/07/mega-explainer-the-ridership-recipe.html) emphasizes the importance of transit frequency:
