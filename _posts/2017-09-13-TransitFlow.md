@@ -4,7 +4,9 @@ layout: post
 date: '2017-09-30 02:42:14 -0400'
 categories: data
 publish: true
-title: TransitFlow -- Visualize regional transit frequency around the world!
+title: >-
+  Introducing TransitFlow - Visualize regional transit frequency around the
+  world!
 ---
 ![]({{site.baseurl}}/https://s3.amazonaws.com/mapzen-assets/images/transitflow/table_happy.png)
 
