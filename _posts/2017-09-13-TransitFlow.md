@@ -8,7 +8,7 @@ title: >-
   Introducing TransitFlow - Visualize regional transit frequency around the
   world!
 ---
-![]({{site.baseurl}}/https://s3.amazonaws.com/mapzen-assets/images/transitflow/table_happy.png)
+![fig]({{site.baseurl}}/https://s3.amazonaws.com/mapzen-assets/images/transitflow/table_happy.png)
 
 # TransitFlow — using Python and Processing to visualize regional transit frequency
 
