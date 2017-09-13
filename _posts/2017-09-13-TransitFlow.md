@@ -4,6 +4,7 @@ layout: post
 date: '2017-09-30 02:42:14 -0400'
 categories: data
 publish: true
+title: TransitFlow -- Visualize regional transit frequency around the world!
 ---
 # TransitFlow — using Python and Processing to visualize regional transit frequency
 
