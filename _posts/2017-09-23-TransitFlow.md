@@ -5,9 +5,12 @@ date: '2017-09-22 04:15:14 -0400'
 categories: data
 title: TransitFlow
 ---
-# TransitFlow — using Python and Processing to visualize regional transit frequency
 
 ![](https://cdn.citylab.com/media/img/citylab/2017/09/unnamed/940.png?mod=1504296214)
+*Chicago Transit Flows*
+
+# TransitFlow — using Python and Processing to visualize regional transit frequency
+
 
 Urban planner [Jarrett Walker](http://humantransit.org/2015/07/mega-explainer-the-ridership-recipe.html) emphasizes the importance of transit frequency:
 
