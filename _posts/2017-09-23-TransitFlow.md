@@ -3,6 +3,7 @@ published: true
 layout: post
 date: '2017-09-22 04:15:14 -0400'
 categories: data
+title: TransitFlow
 ---
 # TransitFlow — using Python and Processing to visualize regional transit frequency
 
