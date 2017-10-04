@@ -5,6 +5,8 @@ permalink: /about/
 published: true
 ---
 
+[![fig](https://i.imgur.com/12BWgzs.jpg)](https://www.informationisbeautifulawards.com/showcase/2347)
+
 [![fig](https://i.imgur.com/4AFR4xZ.jpg)](https://www.theguardian.com/cities/2017/oct/04/hypnotic-beauty-public-transport-mapped)
 
 [![fig](http://i.imgur.com/soflhVo.jpg)](https://www.citylab.com/transportation/2017/09/visualize-transit-frequency-nearly-anywhere-in-the-world/538725/)
