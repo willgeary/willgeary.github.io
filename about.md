@@ -10,36 +10,36 @@ published: true
 
 -------------
 
-## The Guardian: The Hypnotic Beauty of Public Transport Mapped (October 2017)
+# The Guardian: The Hypnotic Beauty of Public Transport Mapped (October 2017)
 [![fig](https://i.imgur.com/4AFR4xZ.jpg)](https://www.theguardian.com/cities/2017/oct/04/hypnotic-beauty-public-transport-mapped)
 
 -------------
 
-## CityLab: Mapping the Ebb and Flow of Transit Around the World (September 2017)
+# CityLab: Mapping the Ebb and Flow of Transit Around the World (September 2017)
 [![fig](http://i.imgur.com/soflhVo.jpg)](https://www.citylab.com/transportation/2017/09/visualize-transit-frequency-nearly-anywhere-in-the-world/538725/)
 
 
-## Curbed: Animated Map Brings San Francisco Transit to Life (September 2017)
+# Curbed: Animated Map Brings San Francisco Transit to Life (September 2017)
 [![fig](http://i.imgur.com/9yeNzvE.jpg)](https://sf.curbed.com/2017/9/5/16255068/transit-flow-map-sf-muni)
 
 
-## CityLab: 24 Hours of New York Transit with Multimodal Symphony (April 2017)
+# CityLab: 24 Hours of New York Transit with Multimodal Symphony (April 2017)
 [![fig](http://i.imgur.com/Lth7qQV.jpg)](https://www.citylab.com/transportation/2017/04/groove-out-to-24-hours-of-new-york-transit-with-the-multimodal-symphony/522633/)
 
 
-## Mobility Lab: A Visualized Day of New York's Transit Options, Working Togther (April 2017)
+# Mobility Lab: A Visualized Day of New York's Transit Options, Working Togther (April 2017)
 [![fig](http://i.imgur.com/H7c7G69.jpg)](https://mobilitylab.org/2017/04/11/nyc-visualization-transit-options/)
 
 
-## Gothamist: Visualization of Every NYC Cab and Bus Rides in One Day (April 2017)
+# Gothamist: Visualization of Every NYC Cab and Bus Rides in One Day (April 2017)
 [![fig](http://i.imgur.com/pamda1H.png)](http://gothamist.com/2017/04/05/soothing_taxi_video.php)
 
 
-## Mental Floss: What 24 Hours of New York City Subway Travel Looks Like (December 2016)
+# Mental Floss: What 24 Hours of New York City Subway Travel Looks Like (December 2016)
 [![fig](http://i.imgur.com/AAdsA9u.png)](http://mentalfloss.com/article/90017/what-24-hours-new-york-city-subway-travel-looks)
 
-## Technical.ly Brooklyn: Behold the Beauty of Every NYC Cab Ride in a Day Mapped Out (March 2017)
+# Technical.ly Brooklyn: Behold the Beauty of Every NYC Cab Ride in a Day Mapped Out (March 2017)
 [![fig](http://i.imgur.com/mFY6ICr.jpg)](https://technical.ly/brooklyn/2017/03/28/nyc-taxi-trips-map-will-geary/)
 
-## Technical.ly Brookyln: Mapping Brooklyn's Daycare Deserts (December 2016)
+# Technical.ly Brookyln: Mapping Brooklyn's Daycare Deserts (December 2016)
 [![fig](http://i.imgur.com/YzQK9CG.jpg)](https://technical.ly/brooklyn/2016/12/12/brooklyn-daycare-deserts-map/?utm_content=bufferff628&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
