@@ -44,5 +44,8 @@ published: true
 [![fig](http://i.imgur.com/mFY6ICr.jpg)](https://technical.ly/brooklyn/2017/03/28/nyc-taxi-trips-map-will-geary/)
 <br>
 
+# Curbed: 24 hours of NYC Subway Activity in this Hypnotic Video
+[![fig](https://i.imgur.com/kuReMGH.png)](https://ny.curbed.com/2016/12/8/13882720/nyc-subway-activity-data-visualization)
+
 # Technical.ly Brookyln: Mapping Brooklyn's Daycare Deserts (December 2016)
 [![fig](http://i.imgur.com/YzQK9CG.jpg)](https://technical.ly/brooklyn/2016/12/12/brooklyn-daycare-deserts-map/?utm_content=bufferff628&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
