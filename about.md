@@ -37,7 +37,7 @@ published: true
 <br>
 
 # Mental Floss: What 24 Hours of New York City Subway Travel Looks Like (December 2016)
-[![fig](http://i.imgur.com/AAdsA9u.png)](http://mentalfloss.com/article/90017/what-24-hours-new-york-city-subway-travel-looks)
+[![fig](https://i.imgur.com/8tRbcYM.jpg)](http://mentalfloss.com/article/90017/what-24-hours-new-york-city-subway-travel-looks)
 <br>
 
 # Technical.ly Brooklyn: Behold the Beauty of Every NYC Cab Ride in a Day Mapped Out (March 2017)
