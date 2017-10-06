@@ -24,8 +24,13 @@ published: true
 [![fig](http://i.imgur.com/9yeNzvE.jpg)](https://sf.curbed.com/2017/9/5/16255068/transit-flow-map-sf-muni)
 <br>
 
+# Philly Voice: Experimental Mapping Tool Simulates Daily Transit Frequency (September 2017)
+[![fig](http://i.imgur.com/9yeNzvE.jpg)](https://sf.curbed.com/2017/9/5/16255068/transit-flow-map-sf-muni)
+<br>
+
+
 # CityLab: 24 Hours of New York Transit with Multimodal Symphony (April 2017)
-[![fig](http://i.imgur.com/Lth7qQV.jpg)](https://www.citylab.com/transportation/2017/04/groove-out-to-24-hours-of-new-york-transit-with-the-multimodal-symphony/522633/)
+[![fig](https://i.imgur.com/TrTJ0Xk.jpg)](http://www.phillyvoice.com/watch-24-hour-visualization-every-philly-septa-trip/)
 <br>
 
 # Mobility Lab: A Visualized Day of New York's Transit Options, Working Togther (April 2017)
