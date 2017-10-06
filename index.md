@@ -3,7 +3,7 @@ layout: page
 published: true
 ---
 
-Hello, my name is Will. I'm currently working in geospatial data science at the United Nations and pursuing an [M.S. in Data Science](http://datascience.columbia.edu/master-of-science-in-data-science) at Columbia University, studying machine learning, data visualization and geospatial analytics. 
+Hello, my name is Will. I'm currently consulting on geospatial data science at the United Nations and pursuing an [M.S. in Data Science](http://datascience.columbia.edu/master-of-science-in-data-science) at Columbia University, studying machine learning, data visualization and geospatial analytics. 
 
 While interning on the mobility team at [Mapzen](https://www.mapzen.com) this summer I developed [TransitFlow](https://github.com/transitland/transitland-processing-animation), free and open-source software tool for visualizing regional transit network frequency from the command line! Thanks to Mapzen for the opportunity to work on it this summer. Here's a [blog post](https://mapzen.com/blog/animating-transitland/) with more info.
 
