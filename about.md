@@ -33,7 +33,7 @@ published: true
 -------------
 
 # Philly Voice: Experimental Mapping Tool Simulates Daily Transit Frequency (September 2017)
-[![fig](https://i.imgur.com/TrTJ0Xk.jpg)](http://www.phillyvoice.com/watch-24-hour-visualization-every-philly-septa-trip/)
+[![fig](https://i.imgur.com/aMzf5Ce.jpg)](http://www.phillyvoice.com/watch-24-hour-visualization-every-philly-septa-trip/)
 <br>
 
 -------------
