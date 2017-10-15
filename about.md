@@ -56,6 +56,18 @@ published: true
 
 -------------
 
+# CityLab: Mapping Amtrak Service, Before and After the Trump Budget (April 2017)
+[![fig](https://i.imgur.com/vmRUWEF.jpg)](https://www.citylab.com/transportation/2017/04/mapping-amtrak-service-before-and-after-the-trump-budget/523338/)
+<br>
+
+-------------
+
+# CityLab: Visualizing a Full Day on the NYC Subway (December 2016)
+[![fig](https://i.imgur.com/z228hWf.jpg)](https://www.citylab.com/transportation/2016/12/visualizing-a-full-day-on-the-new-york-city-subway/510020/)
+<br>
+
+-------------
+
 # Mental Floss: What 24 Hours of New York City Subway Travel Looks Like (December 2016)
 [![fig](https://i.imgur.com/8tRbcYM.jpg)](http://mentalfloss.com/article/90017/what-24-hours-new-york-city-subway-travel-looks)
 <br>
