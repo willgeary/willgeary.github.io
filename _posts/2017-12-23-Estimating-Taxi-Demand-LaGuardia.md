@@ -4,6 +4,6 @@ layout: post
 date: '2017-12-23 04:15:14 -0400'
 categories: data
 ---
-<object data="Capstone_Final_Report-Project_6.pdf" type="application/pdf" width='100%' height='700px'>
-<embed src="Capstone_Final_Report-Project_6.pdf" type="application/pdf" />
-</object>
+<iframe src="http://nbviewer.jupyter.org/github/willgeary/willgeary.github.io/blob/master/_posts/Capstone_Final_Report-Project_6.pdf" frameborder="0" width="100%" height="800" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Github repository: [https://github.com/willgeary/PredictingTaxiDemandAirports](https://github.com/willgeary/PredictingTaxiDemandAirports)
