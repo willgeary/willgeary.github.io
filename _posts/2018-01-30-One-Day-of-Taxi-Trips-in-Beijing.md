@@ -10,8 +10,8 @@ categories: data
 
 One day of taxi trajectories in Beijing. 
 
-Data processing done in Python. Notebook here:
+Data processing done in Python. Notebook here: [https://github.com/willgeary/BeijingTaxiFlows](https://github.com/willgeary/BeijingTaxiFlows)
 
 Visualized with a custom C++ / openFrameworks script.
 
-Data from Microsoft Research: https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/
+Data from Microsoft Research: [https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/](https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/)
