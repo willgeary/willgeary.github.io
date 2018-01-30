@@ -10,4 +10,4 @@ categories: data
 
 One day of taxi trajectories in Beijing. Made with C++ / openFrameworks.
 
-Data from Microsoft Research.
+Data from Microsoft Research: https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/
