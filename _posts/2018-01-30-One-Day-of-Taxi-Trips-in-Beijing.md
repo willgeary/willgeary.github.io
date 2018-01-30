@@ -8,6 +8,10 @@ categories: data
 
 <br><br>
 
-One day of taxi trajectories in Beijing. Made with C++ / openFrameworks.
+One day of taxi trajectories in Beijing. 
+
+Data processing done in Python. Notebook here:
+
+Visualized with a custom C++ / openFrameworks script.
 
 Data from Microsoft Research: https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/
