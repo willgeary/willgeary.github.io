@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 date: '2018-03-07 01:15:14 -0400'
 categories: data
