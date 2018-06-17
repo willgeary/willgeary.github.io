@@ -5,6 +5,13 @@ permalink: /about/
 published: true
 ---
 
+# Columbia Engineering Grad Sees Data Science Answer to Public Transit Woes
+[![fig](https://i.imgur.com/zR3HDvP.jpg)]
+(http://news.columbia.edu/content/Columbia-Engineering-Grad-Sees-Data-Science-Answer-to-Public-Transit-Woes)
+<br>
+
+-------------
+
 # Information is Beautiful Awards 2017
 [![fig](https://i.imgur.com/12BWgzs.jpg)](https://www.informationisbeautifulawards.com/showcase/2347)
 <br>
