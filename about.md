@@ -6,8 +6,7 @@ published: true
 ---
 
 # Columbia Engineering Grad Sees Data Science Answer to Public Transit Woes
-[![fig](https://i.imgur.com/zR3HDvP.jpg)]
-(http://news.columbia.edu/content/Columbia-Engineering-Grad-Sees-Data-Science-Answer-to-Public-Transit-Woes)
+[![fig](https://i.imgur.com/zR3HDvP.jpg)](http://news.columbia.edu/content/Columbia-Engineering-Grad-Sees-Data-Science-Answer-to-Public-Transit-Woes)
 <br>
 
 -------------
