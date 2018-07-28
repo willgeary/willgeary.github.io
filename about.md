@@ -5,6 +5,13 @@ permalink: /about/
 published: true
 ---
 
+# Fast Company: Check out this amazing visual of U.S. arms exports from 1950 to 2017
+[![fig](https://i.imgur.com/G5m0X5U.png)](https://www.fastcompany.com/90203428/check-out-this-amazing-visual-of-u-s-arms-exports-from-1950-to-2017)
+<br>
+
+-------------
+
+
 # Columbia Engineering Grad Sees Data Science Answer to Public Transit Woes
 [![fig](https://i.imgur.com/zR3HDvP.jpg)](http://news.columbia.edu/content/Columbia-Engineering-Grad-Sees-Data-Science-Answer-to-Public-Transit-Woes)
 <br>
