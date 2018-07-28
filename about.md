@@ -11,6 +11,12 @@ published: true
 
 -------------
 
+# *In Plain Sight* at the 16th International Architecture Exhibition of La Biennale di Venezia
+[![fig](http://dimensionsofcitizenship.org/uploads/doc_globe_01.jpg)](http://dimensionsofcitizenship.org/participants/diller-scofidio-plus-renfro-laura-kurgan-robert-gerard-pietrusko/)
+<br>
+
+-------------
+
 # Information is Beautiful Awards 2017
 [![fig](https://i.imgur.com/12BWgzs.jpg)](https://www.informationisbeautifulawards.com/showcase/2347)
 <br>
