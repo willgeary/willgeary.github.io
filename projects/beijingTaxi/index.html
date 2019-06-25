@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html class="w-100 h-100 ma0">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title> Will Geary | Data Scientist
+  </title>
+  <link rel="stylesheet" href="../../css/main.css">
+</head>
+
+<body class="w-100 h-50 ma0 pa3 flex flex-column items-center mb4">
+	<div class="mw8 flex flex-column flex-row-ns h-50 w-100">
+		<div class="w-20-ns w-100 h-auto pa2 tr">
+</div>
+
+		<main class="w-100 h-auto flex flex-column">
+			<section class="w-100 h3">
+				<nav class="w-100 h-auto">
+						<ul class="list pl0 w-100 flex flex-row">
+							<li class="f5 w-20 bb"><a class="bold black link db w-100 dim" href="../../info">info</a></li>
+							<li class="f5 w-20 bb ml2"><a class="bold black link db w-100 dim"href="../../mobility">mobility</a></li>
+							<li class="f5 w-20 bb ml2"><a class="bold black link db w-100 dim" href="../../critical">critical</a></li>
+              <li class="f5 w-20 bb ml2"><a class="bold black link db w-100 dim" href="../../creative">creative</a></li>
+						</ul>
+				</nav>
+			</section>
+
+			<section class="w-100  flex flex-row h-auto mt5-ns flex-wrap mb4" style="min-height: fit-content;">
+				<div>
+					<h1 class="ma0 f2">Taxi Trips in Beijing</h1>
+				</div>
+			</section>
+
+    	<h3>Animating taxi trajectory data collected in Beijing</h3>
+
+
+
+      <div class="imageGrid w-75-ns w-100">
+
+    		<img class="gridImage" src="../../assets/images/beijingTaxi/image.png">
+
+    	</div>
+
+
+
+    	<!-- fill in project details -->
+    	<div class="projectMd w-75-ns w-100">
+    	<h2 id="about">About</h2>
+
+        <p>This project represents my attempt to visualize a "bird's eye view" of Beijing taxi flows using publicly available data.</p>
+
+        <p>The underlying data was collected and made public by <a class="link black underline" href="https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/">Microsoft Research</a>.</p>
+
+      </div>
+
+      <h2>Methodology:</h2>
+      <div class="projectMd w-75-ns w-100">
+
+
+        <p>I downloaded the <a class="link black underline" href="https://www.microsoft.com/en-us/research/publication/t-drive-trajectory-data-sample/">Beijing taxi trajectory data from Microsoft Research</a> and selected just one day to visualize. I wrote a python script to parse the data into a table, relying heavily on the GeoPandas library.</p>
+        <p>I then wrote an application using OpenFrameworks (C++) to visualize the data. Here is a video showing the animation created with openFrameworks:</p>
+
+        <iframe src="https://player.vimeo.com/video/253442061?title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+        <p>I then wanted to add a blur effect, so that the visualization would resemble flame (rather than displaying individual dots moving). So, I used Touchdesigner to apply a GLSL filter. Here is the video showing the animation after post-processing in TouchDesigner:</p>
+        <iframe src="https://player.vimeo.com/video/344358658?title=0&byline=0&portrait=0" width="100%" height="430" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+
+        <p><b>Tools used:</b> Python, openFrameworks (C++), TouchDesigner</p>
+      </div>
+
+
+
+
+
+
+
+
+
+    <div class="pageNavBottom w-100 flex flex-row-ns flex-column mt4">
+			<div class="w-75-ns w-100">
+				<p class="f3 bold"><a class="link black" href="../../mobility ">← mobility</a></p>
+			</div>
+			<div class="w-25-ns w-100 pl3">
+				<p class="f3 bold"><a class="link black" href="../../critical">→ critical</a></p>
+			</div>
+		</div>
+
+
+
+
+		</main>
+
+	</div>
+
+</body>
+
+</html>

@@ -1,0 +1,13 @@
+---
+published: true
+layout: post
+date: '2016-12-21 06:15:14 -0400'
+categories: data
+---
+<iframe src="https://player.vimeo.com/video/196621573?portrait=0" width="640" height="401" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+This animation shows the flow of Amtrak trains across America over one week (Monday through Sunday). 
+
+Built with Python and Processing. GTFS Data obtained via a FOIA request, see [here](https://groups.google.com/forum/#!topic/transit-developers/XcSiFD3uzuw).
+
+Python notebook and processing code available here: https://github.com/willgeary/AmericaByTrain
